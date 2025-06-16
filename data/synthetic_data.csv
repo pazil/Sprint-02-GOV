@@ -1,0 +1,1001 @@
+id_chamado,customer_id,frequencia_chamados_6_meses,tipo_erro_reportado,cartucho_registrado,call_date,region,state,cartridge_type,nps,returned,classificacao_risco
+CH1000,C0103,1,falha de reconhecimento,True,2025-03-20,Sudeste,MG,original,7,False,Baixa Probabilidade
+CH1001,C0117,2,falha de reconhecimento,True,2025-01-06,Sul,RS,original,9,False,Baixa Probabilidade
+CH1002,C0058,2,baixa qualidade de impressão,True,2024-09-18,Norte,AC,original,7,True,Baixa Probabilidade
+CH1003,C0190,4,vazamento de tinta,False,2025-02-05,Centro-Oeste,GO,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1004,C0051,1,baixa qualidade de impressão,True,2024-07-05,Sul,RS,generico,6,False,Baixa Probabilidade
+CH1005,C0053,5,danificou a impressora,False,2025-05-12,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1006,C0081,4,vazamento de tinta,False,2024-12-07,Sudeste,RJ,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1007,C0146,2,baixa qualidade de impressão,True,2024-10-22,Centro-Oeste,DF,generico,6,True,Baixa Probabilidade
+CH1008,C0082,2,baixa qualidade de impressão,True,2024-08-19,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1009,C0065,3,danificou a impressora,False,2025-01-28,Sul,PR,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1010,C0081,1,falha de reconhecimento,True,2024-09-21,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1011,C0162,5,vazamento de tinta,False,2024-06-21,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1012,C0035,1,outro,True,2024-11-21,Sudeste,SP,generico,7,False,Baixa Probabilidade
+CH1013,C0015,3,vazamento de tinta,False,2025-03-12,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1014,C0132,1,falha de reconhecimento,True,2025-03-22,Sudeste,MG,original,10,False,Baixa Probabilidade
+CH1015,C0028,1,baixa qualidade de impressão,True,2024-09-03,Norte,AC,original,9,False,Baixa Probabilidade
+CH1016,C0190,2,baixa qualidade de impressão,True,2025-02-15,Sudeste,RJ,original,6,False,Baixa Probabilidade
+CH1017,C0116,1,baixa qualidade de impressão,True,2024-10-25,Nordeste,CE,original,6,False,Baixa Probabilidade
+CH1018,C0172,5,vazamento de tinta,False,2025-02-23,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1019,C0062,2,baixa qualidade de impressão,True,2025-03-27,Nordeste,MA,original,8,False,Baixa Probabilidade
+CH1020,C0187,2,baixa qualidade de impressão,True,2024-12-26,Sul,RS,original,6,False,Baixa Probabilidade
+CH1021,C0160,1,falha de reconhecimento,True,2025-03-10,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1022,C0198,1,baixa qualidade de impressão,True,2025-01-19,Centro-Oeste,MS,generico,6,False,Baixa Probabilidade
+CH1023,C0187,4,danificou a impressora,False,2024-08-12,Sul,PR,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1024,C0161,1,outro,True,2024-08-22,Sul,PR,original,9,False,Baixa Probabilidade
+CH1025,C0099,4,falha de reconhecimento,False,2024-08-16,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1026,C0140,2,falha de reconhecimento,True,2025-01-15,Sudeste,ES,original,8,False,Baixa Probabilidade
+CH1027,C0054,2,outro,True,2024-11-01,Norte,PA,generico,6,False,Baixa Probabilidade
+CH1028,C0112,5,falha de reconhecimento,False,2024-12-04,Nordeste,PE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1029,C0054,1,baixa qualidade de impressão,True,2025-02-01,Norte,AC,original,6,False,Baixa Probabilidade
+CH1030,C0195,1,falha de reconhecimento,True,2024-11-02,Sudeste,MG,original,10,False,Baixa Probabilidade
+CH1031,C0021,2,falha de reconhecimento,True,2025-05-12,Sudeste,ES,generico,6,False,Baixa Probabilidade
+CH1032,C0192,1,outro,True,2025-05-10,Norte,AM,original,10,False,Baixa Probabilidade
+CH1033,C0024,4,falha de reconhecimento,False,2024-12-07,Centro-Oeste,DF,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1034,C0160,2,baixa qualidade de impressão,True,2024-06-21,Sul,PR,original,7,False,Baixa Probabilidade
+CH1035,C0174,5,falha de reconhecimento,False,2024-09-16,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1036,C0104,1,falha de reconhecimento,True,2025-06-03,Sudeste,RJ,original,7,False,Baixa Probabilidade
+CH1037,C0060,1,falha de reconhecimento,True,2024-07-29,Norte,PA,original,9,False,Baixa Probabilidade
+CH1038,C0032,2,baixa qualidade de impressão,True,2024-08-15,Sul,SC,original,10,False,Baixa Probabilidade
+CH1039,C0180,5,vazamento de tinta,False,2025-04-17,Sul,RS,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1040,C0108,2,outro,True,2024-09-20,Norte,AC,original,8,False,Baixa Probabilidade
+CH1041,C0114,2,baixa qualidade de impressão,True,2025-02-19,Sul,RS,original,8,False,Baixa Probabilidade
+CH1042,C0062,1,falha de reconhecimento,True,2025-02-18,Sul,SC,original,7,False,Baixa Probabilidade
+CH1043,C0048,3,vazamento de tinta,False,2025-04-08,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1044,C0022,1,baixa qualidade de impressão,True,2024-11-08,Centro-Oeste,MT,original,10,False,Baixa Probabilidade
+CH1045,C0069,4,falha de reconhecimento,False,2024-11-10,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1046,C0176,2,baixa qualidade de impressão,True,2024-08-30,Centro-Oeste,DF,original,7,False,Baixa Probabilidade
+CH1047,C0180,2,outro,True,2025-01-07,Sul,RS,original,10,False,Baixa Probabilidade
+CH1048,C0084,2,falha de reconhecimento,True,2024-07-28,Centro-Oeste,DF,original,10,False,Baixa Probabilidade
+CH1049,C0065,2,baixa qualidade de impressão,True,2024-10-17,Sul,RS,original,9,False,Baixa Probabilidade
+CH1050,C0035,4,vazamento de tinta,False,2025-02-21,Sudeste,RJ,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1051,C0105,2,falha de reconhecimento,True,2024-10-10,Nordeste,BA,original,10,True,Baixa Probabilidade
+CH1052,C0164,3,danificou a impressora,False,2025-05-11,Centro-Oeste,DF,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1053,C0096,4,danificou a impressora,False,2024-09-10,Sul,RS,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1054,C0099,3,danificou a impressora,False,2024-12-11,Norte,PA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1055,C0019,2,outro,True,2025-01-23,Norte,TO,generico,3,False,Baixa Probabilidade
+CH1056,C0117,3,danificou a impressora,False,2025-01-23,Sudeste,MG,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1057,C0057,3,vazamento de tinta,False,2025-02-03,Centro-Oeste,MT,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1058,C0163,1,falha de reconhecimento,True,2024-10-06,Norte,AM,generico,3,False,Baixa Probabilidade
+CH1059,C0007,2,baixa qualidade de impressão,True,2024-07-12,Centro-Oeste,GO,generico,4,False,Baixa Probabilidade
+CH1060,C0136,1,outro,True,2024-10-07,Norte,PA,original,6,False,Baixa Probabilidade
+CH1061,C0159,2,falha de reconhecimento,True,2025-01-26,Sudeste,SP,original,7,False,Baixa Probabilidade
+CH1062,C0126,3,falha de reconhecimento,False,2024-07-03,Sudeste,SP,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1063,C0190,2,baixa qualidade de impressão,True,2025-01-07,Norte,AM,generico,7,False,Baixa Probabilidade
+CH1064,C0173,3,vazamento de tinta,False,2025-01-03,Centro-Oeste,GO,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1065,C0147,2,baixa qualidade de impressão,True,2025-06-04,Sudeste,ES,original,6,False,Baixa Probabilidade
+CH1066,C0074,2,baixa qualidade de impressão,True,2025-03-18,Norte,AC,original,10,False,Baixa Probabilidade
+CH1067,C0136,2,baixa qualidade de impressão,True,2024-11-16,Nordeste,BA,original,9,False,Baixa Probabilidade
+CH1068,C0157,5,falha de reconhecimento,False,2024-08-17,Sul,RS,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1069,C0153,2,outro,True,2025-04-12,Nordeste,PE,original,10,True,Baixa Probabilidade
+CH1070,C0146,1,baixa qualidade de impressão,True,2025-03-10,Sudeste,SP,original,6,False,Baixa Probabilidade
+CH1071,C0105,1,baixa qualidade de impressão,True,2024-09-30,Centro-Oeste,MT,original,9,False,Baixa Probabilidade
+CH1072,C0181,1,outro,True,2025-06-15,Nordeste,PE,generico,3,False,Baixa Probabilidade
+CH1073,C0051,4,falha de reconhecimento,False,2025-03-13,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1074,C0072,4,danificou a impressora,False,2024-09-21,Norte,PA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1075,C0193,1,baixa qualidade de impressão,True,2025-04-11,Centro-Oeste,GO,original,6,False,Baixa Probabilidade
+CH1076,C0075,4,danificou a impressora,False,2024-07-13,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1077,C0030,1,outro,True,2024-10-12,Norte,PA,original,6,False,Baixa Probabilidade
+CH1078,C0106,1,falha de reconhecimento,True,2025-04-08,Norte,AC,original,6,False,Baixa Probabilidade
+CH1079,C0034,2,baixa qualidade de impressão,True,2024-12-15,Nordeste,CE,original,8,True,Baixa Probabilidade
+CH1080,C0080,4,danificou a impressora,False,2024-09-08,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1081,C0195,1,falha de reconhecimento,True,2025-03-16,Centro-Oeste,GO,original,7,False,Baixa Probabilidade
+CH1082,C0170,3,danificou a impressora,False,2025-05-01,Sudeste,RJ,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1083,C0034,4,danificou a impressora,False,2025-02-15,Nordeste,CE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1084,C0056,1,baixa qualidade de impressão,True,2024-10-06,Nordeste,CE,original,9,False,Baixa Probabilidade
+CH1085,C0180,5,falha de reconhecimento,False,2025-03-30,Sudeste,MG,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1086,C0130,2,baixa qualidade de impressão,True,2024-09-15,Sudeste,MG,original,8,False,Baixa Probabilidade
+CH1087,C0038,1,baixa qualidade de impressão,True,2024-10-28,Nordeste,BA,original,9,True,Baixa Probabilidade
+CH1088,C0086,3,falha de reconhecimento,False,2025-04-10,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1089,C0109,2,falha de reconhecimento,True,2025-03-07,Sul,RS,original,6,False,Baixa Probabilidade
+CH1090,C0006,2,falha de reconhecimento,True,2025-01-17,Nordeste,BA,original,10,False,Baixa Probabilidade
+CH1091,C0021,5,vazamento de tinta,False,2024-07-01,Nordeste,PE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1092,C0095,3,vazamento de tinta,False,2025-05-11,Nordeste,BA,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1093,C0152,4,danificou a impressora,False,2025-02-18,Norte,PA,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1094,C0113,2,falha de reconhecimento,True,2024-08-20,Sudeste,SP,generico,5,False,Baixa Probabilidade
+CH1095,C0133,4,danificou a impressora,False,2025-01-27,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1096,C0047,2,baixa qualidade de impressão,True,2024-09-30,Centro-Oeste,MS,original,8,False,Baixa Probabilidade
+CH1097,C0161,2,baixa qualidade de impressão,True,2024-08-01,Sul,RS,original,9,False,Baixa Probabilidade
+CH1098,C0101,3,danificou a impressora,False,2025-03-14,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1099,C0095,2,falha de reconhecimento,True,2025-04-01,Nordeste,PE,original,10,False,Baixa Probabilidade
+CH1100,C0035,2,falha de reconhecimento,True,2024-08-29,Norte,PA,generico,5,False,Baixa Probabilidade
+CH1101,C0165,1,falha de reconhecimento,True,2024-08-24,Nordeste,PE,generico,3,False,Baixa Probabilidade
+CH1102,C0072,2,outro,True,2025-01-22,Nordeste,BA,original,6,False,Baixa Probabilidade
+CH1103,C0194,2,baixa qualidade de impressão,True,2025-02-25,Sul,PR,original,8,False,Baixa Probabilidade
+CH1104,C0157,2,outro,True,2024-08-31,Centro-Oeste,MS,original,6,False,Baixa Probabilidade
+CH1105,C0196,2,baixa qualidade de impressão,True,2024-11-12,Norte,AM,original,10,False,Baixa Probabilidade
+CH1106,C0180,1,falha de reconhecimento,True,2025-03-13,Sul,PR,original,9,False,Baixa Probabilidade
+CH1107,C0115,2,falha de reconhecimento,True,2025-02-02,Sul,SC,original,9,False,Baixa Probabilidade
+CH1108,C0200,2,outro,True,2025-02-25,Sul,RS,original,10,False,Baixa Probabilidade
+CH1109,C0104,2,baixa qualidade de impressão,True,2025-03-16,Sul,RS,generico,7,False,Baixa Probabilidade
+CH1110,C0031,2,baixa qualidade de impressão,True,2025-03-07,Nordeste,PE,original,6,False,Baixa Probabilidade
+CH1111,C0149,4,falha de reconhecimento,False,2025-01-18,Norte,TO,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1112,C0175,3,vazamento de tinta,False,2024-08-29,Nordeste,BA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1113,C0063,2,outro,True,2025-02-08,Sudeste,SP,original,7,False,Baixa Probabilidade
+CH1114,C0171,5,vazamento de tinta,False,2024-11-30,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1115,C0088,3,danificou a impressora,False,2025-04-28,Nordeste,PE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1116,C0199,1,baixa qualidade de impressão,True,2024-10-02,Nordeste,CE,original,9,False,Baixa Probabilidade
+CH1117,C0141,1,baixa qualidade de impressão,True,2025-01-23,Centro-Oeste,MT,generico,7,False,Baixa Probabilidade
+CH1118,C0168,1,falha de reconhecimento,True,2024-11-06,Nordeste,PE,original,7,False,Baixa Probabilidade
+CH1119,C0166,2,baixa qualidade de impressão,True,2025-01-05,Sul,PR,generico,5,False,Baixa Probabilidade
+CH1120,C0124,1,baixa qualidade de impressão,True,2024-07-28,Nordeste,CE,original,10,False,Baixa Probabilidade
+CH1121,C0187,2,baixa qualidade de impressão,True,2024-09-25,Norte,TO,original,8,False,Baixa Probabilidade
+CH1122,C0162,2,falha de reconhecimento,True,2024-12-16,Norte,AM,generico,5,False,Baixa Probabilidade
+CH1123,C0142,4,vazamento de tinta,False,2025-01-20,Sudeste,SP,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1124,C0112,3,vazamento de tinta,False,2025-06-05,Centro-Oeste,GO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1125,C0130,1,baixa qualidade de impressão,True,2024-07-09,Norte,TO,original,6,False,Baixa Probabilidade
+CH1126,C0108,4,danificou a impressora,False,2024-11-04,Norte,AC,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1127,C0114,4,danificou a impressora,False,2024-11-27,Sudeste,MG,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1128,C0022,2,baixa qualidade de impressão,True,2025-01-21,Sudeste,RJ,generico,4,False,Baixa Probabilidade
+CH1129,C0128,3,vazamento de tinta,False,2025-04-01,Sul,SC,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1130,C0087,4,vazamento de tinta,False,2024-12-30,Sul,PR,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1131,C0098,1,baixa qualidade de impressão,True,2025-02-14,Norte,PA,original,6,False,Baixa Probabilidade
+CH1132,C0046,4,danificou a impressora,False,2024-09-07,Nordeste,CE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1133,C0029,2,baixa qualidade de impressão,True,2025-03-10,Sudeste,RJ,generico,5,False,Baixa Probabilidade
+CH1134,C0055,2,baixa qualidade de impressão,True,2024-11-01,Norte,TO,original,7,True,Baixa Probabilidade
+CH1135,C0081,1,baixa qualidade de impressão,True,2025-05-30,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1136,C0129,1,falha de reconhecimento,True,2024-12-26,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1137,C0179,4,vazamento de tinta,False,2024-08-15,Nordeste,CE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1138,C0189,1,baixa qualidade de impressão,True,2024-11-13,Centro-Oeste,GO,original,8,False,Baixa Probabilidade
+CH1139,C0118,2,baixa qualidade de impressão,True,2025-04-30,Centro-Oeste,MT,original,8,False,Baixa Probabilidade
+CH1140,C0032,1,outro,True,2025-01-30,Centro-Oeste,MS,original,7,False,Baixa Probabilidade
+CH1141,C0115,2,baixa qualidade de impressão,True,2025-03-05,Sul,PR,original,9,False,Baixa Probabilidade
+CH1142,C0017,2,baixa qualidade de impressão,True,2024-12-15,Sudeste,ES,original,7,False,Baixa Probabilidade
+CH1143,C0108,2,falha de reconhecimento,True,2025-02-28,Nordeste,MA,original,6,False,Baixa Probabilidade
+CH1144,C0126,1,outro,True,2025-05-08,Sudeste,MG,original,10,False,Baixa Probabilidade
+CH1145,C0046,2,baixa qualidade de impressão,True,2024-09-23,Norte,TO,original,9,False,Baixa Probabilidade
+CH1146,C0158,1,falha de reconhecimento,True,2024-08-27,Sul,SC,original,6,False,Baixa Probabilidade
+CH1147,C0153,3,falha de reconhecimento,False,2024-07-07,Nordeste,BA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1148,C0196,4,danificou a impressora,False,2024-08-25,Nordeste,PE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1149,C0184,2,baixa qualidade de impressão,True,2025-04-05,Norte,TO,original,6,False,Baixa Probabilidade
+CH1150,C0148,2,falha de reconhecimento,True,2024-10-18,Nordeste,PE,original,7,True,Baixa Probabilidade
+CH1151,C0003,1,baixa qualidade de impressão,True,2024-10-18,Norte,PA,generico,3,False,Baixa Probabilidade
+CH1152,C0061,5,danificou a impressora,False,2025-01-07,Centro-Oeste,MS,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1153,C0013,5,vazamento de tinta,False,2024-09-22,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1154,C0105,1,baixa qualidade de impressão,True,2025-05-07,Sul,RS,generico,3,False,Baixa Probabilidade
+CH1155,C0025,1,baixa qualidade de impressão,True,2025-05-10,Sul,SC,original,8,False,Baixa Probabilidade
+CH1156,C0060,3,falha de reconhecimento,False,2024-08-02,Sudeste,ES,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1157,C0093,1,baixa qualidade de impressão,True,2024-11-12,Nordeste,PE,original,8,False,Baixa Probabilidade
+CH1158,C0147,2,outro,True,2024-12-17,Centro-Oeste,GO,generico,3,False,Baixa Probabilidade
+CH1159,C0170,5,danificou a impressora,False,2024-08-06,Norte,AM,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1160,C0031,2,outro,True,2025-06-04,Centro-Oeste,GO,original,7,False,Baixa Probabilidade
+CH1161,C0039,3,danificou a impressora,False,2024-11-05,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1162,C0098,2,outro,True,2024-11-04,Sul,RS,original,8,False,Baixa Probabilidade
+CH1163,C0063,1,outro,True,2024-07-27,Norte,PA,original,9,False,Baixa Probabilidade
+CH1164,C0192,2,falha de reconhecimento,True,2024-09-19,Sul,SC,original,7,True,Baixa Probabilidade
+CH1165,C0192,2,falha de reconhecimento,True,2025-05-14,Centro-Oeste,MS,original,10,False,Baixa Probabilidade
+CH1166,C0134,2,falha de reconhecimento,True,2025-06-12,Sul,RS,original,7,False,Baixa Probabilidade
+CH1167,C0099,1,falha de reconhecimento,True,2025-03-24,Sul,PR,generico,5,False,Baixa Probabilidade
+CH1168,C0022,5,falha de reconhecimento,False,2025-05-26,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1169,C0047,1,outro,True,2025-06-01,Nordeste,PE,original,10,False,Baixa Probabilidade
+CH1170,C0162,3,danificou a impressora,False,2024-11-20,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1171,C0027,2,baixa qualidade de impressão,True,2024-07-02,Norte,TO,original,8,False,Baixa Probabilidade
+CH1172,C0192,4,danificou a impressora,False,2024-11-22,Sudeste,RJ,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1173,C0199,3,vazamento de tinta,False,2025-02-19,Nordeste,PE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1174,C0130,1,outro,True,2025-03-13,Sul,SC,original,10,True,Baixa Probabilidade
+CH1175,C0166,3,danificou a impressora,False,2024-09-22,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1176,C0179,3,vazamento de tinta,False,2024-08-10,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1177,C0086,3,danificou a impressora,False,2025-06-14,Centro-Oeste,GO,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1178,C0033,2,baixa qualidade de impressão,True,2025-02-14,Sul,SC,original,7,False,Baixa Probabilidade
+CH1179,C0143,5,danificou a impressora,False,2025-02-13,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1180,C0134,1,baixa qualidade de impressão,True,2025-03-24,Sul,SC,original,7,False,Baixa Probabilidade
+CH1181,C0062,1,baixa qualidade de impressão,True,2025-06-13,Sul,PR,generico,6,False,Baixa Probabilidade
+CH1182,C0127,2,baixa qualidade de impressão,True,2024-08-19,Centro-Oeste,GO,original,9,False,Baixa Probabilidade
+CH1183,C0122,4,vazamento de tinta,False,2024-12-15,Norte,AM,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1184,C0032,2,baixa qualidade de impressão,True,2025-02-05,Nordeste,CE,original,10,False,Baixa Probabilidade
+CH1185,C0156,5,vazamento de tinta,False,2024-07-19,Nordeste,BA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1186,C0049,1,baixa qualidade de impressão,True,2025-05-27,Norte,PA,generico,7,False,Baixa Probabilidade
+CH1187,C0188,3,danificou a impressora,False,2024-06-27,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1188,C0066,2,baixa qualidade de impressão,True,2025-02-05,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1189,C0018,1,baixa qualidade de impressão,True,2024-07-17,Sul,SC,original,9,False,Baixa Probabilidade
+CH1190,C0002,3,vazamento de tinta,False,2025-02-25,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1191,C0014,1,falha de reconhecimento,True,2025-04-11,Nordeste,MA,original,6,False,Baixa Probabilidade
+CH1192,C0163,1,falha de reconhecimento,True,2024-12-03,Sudeste,RJ,original,9,False,Baixa Probabilidade
+CH1193,C0118,4,vazamento de tinta,False,2025-02-03,Norte,AM,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1194,C0020,2,falha de reconhecimento,True,2024-12-23,Sudeste,SP,original,9,False,Baixa Probabilidade
+CH1195,C0165,2,outro,True,2024-07-17,Norte,PA,original,9,False,Baixa Probabilidade
+CH1196,C0130,3,falha de reconhecimento,False,2024-11-30,Sudeste,MG,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1197,C0059,3,danificou a impressora,False,2024-10-17,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1198,C0043,3,danificou a impressora,False,2024-12-20,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1199,C0151,2,baixa qualidade de impressão,True,2025-06-08,Sul,PR,original,9,False,Baixa Probabilidade
+CH1200,C0085,3,vazamento de tinta,False,2024-08-30,Centro-Oeste,MS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1201,C0193,2,baixa qualidade de impressão,True,2024-07-23,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1202,C0089,1,falha de reconhecimento,True,2024-11-08,Nordeste,PE,generico,7,False,Baixa Probabilidade
+CH1203,C0194,2,baixa qualidade de impressão,True,2025-03-31,Nordeste,BA,generico,3,False,Baixa Probabilidade
+CH1204,C0159,2,falha de reconhecimento,True,2024-09-10,Sul,SC,original,9,False,Baixa Probabilidade
+CH1205,C0083,1,baixa qualidade de impressão,True,2024-11-29,Nordeste,MA,original,6,False,Baixa Probabilidade
+CH1206,C0143,2,falha de reconhecimento,True,2024-06-26,Sul,PR,original,6,False,Baixa Probabilidade
+CH1207,C0200,2,falha de reconhecimento,True,2025-02-19,Sul,SC,original,10,False,Baixa Probabilidade
+CH1208,C0154,3,vazamento de tinta,False,2024-09-18,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1209,C0043,2,falha de reconhecimento,True,2024-07-15,Sudeste,MG,original,8,True,Baixa Probabilidade
+CH1210,C0047,5,vazamento de tinta,False,2025-01-26,Sul,RS,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1211,C0019,3,danificou a impressora,False,2025-01-10,Sul,PR,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1212,C0156,2,baixa qualidade de impressão,True,2024-07-06,Norte,PA,original,7,False,Baixa Probabilidade
+CH1213,C0094,5,falha de reconhecimento,False,2024-08-08,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1214,C0170,4,falha de reconhecimento,False,2024-06-19,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1215,C0047,1,falha de reconhecimento,True,2025-06-06,Nordeste,CE,original,9,False,Baixa Probabilidade
+CH1216,C0122,2,outro,True,2025-01-15,Norte,PA,original,7,False,Baixa Probabilidade
+CH1217,C0019,1,falha de reconhecimento,True,2024-12-23,Sul,RS,original,9,False,Baixa Probabilidade
+CH1218,C0049,2,baixa qualidade de impressão,True,2025-01-07,Norte,TO,original,10,False,Baixa Probabilidade
+CH1219,C0011,4,danificou a impressora,False,2024-07-31,Sudeste,RJ,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1220,C0035,2,baixa qualidade de impressão,True,2025-05-28,Norte,PA,original,6,False,Baixa Probabilidade
+CH1221,C0068,2,outro,True,2025-04-04,Nordeste,MA,original,9,True,Baixa Probabilidade
+CH1222,C0136,2,baixa qualidade de impressão,True,2025-05-20,Norte,AM,original,6,False,Baixa Probabilidade
+CH1223,C0160,2,falha de reconhecimento,True,2024-07-25,Sudeste,RJ,original,9,False,Baixa Probabilidade
+CH1224,C0130,2,baixa qualidade de impressão,True,2025-05-11,Norte,PA,generico,6,True,Baixa Probabilidade
+CH1225,C0197,5,danificou a impressora,False,2025-01-09,Sudeste,RJ,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1226,C0121,2,baixa qualidade de impressão,True,2024-07-03,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1227,C0115,3,danificou a impressora,False,2024-09-03,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1228,C0149,4,vazamento de tinta,False,2024-09-17,Norte,AM,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1229,C0038,3,vazamento de tinta,False,2025-04-11,Nordeste,BA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1230,C0105,5,vazamento de tinta,False,2025-01-13,Sul,SC,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1231,C0196,2,outro,True,2025-04-28,Sul,PR,original,9,False,Baixa Probabilidade
+CH1232,C0042,1,baixa qualidade de impressão,True,2025-04-04,Norte,PA,generico,5,False,Baixa Probabilidade
+CH1233,C0143,2,baixa qualidade de impressão,True,2024-09-08,Sul,RS,original,9,False,Baixa Probabilidade
+CH1234,C0054,5,vazamento de tinta,False,2025-05-22,Norte,PA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1235,C0141,2,baixa qualidade de impressão,True,2025-02-08,Norte,AC,original,9,True,Baixa Probabilidade
+CH1236,C0096,1,falha de reconhecimento,True,2024-10-05,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1237,C0130,1,baixa qualidade de impressão,True,2024-09-22,Sul,SC,original,7,False,Baixa Probabilidade
+CH1238,C0178,5,falha de reconhecimento,False,2024-07-22,Nordeste,BA,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1239,C0156,5,vazamento de tinta,False,2024-09-29,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1240,C0103,3,danificou a impressora,False,2025-02-12,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1241,C0166,1,falha de reconhecimento,True,2025-06-02,Sudeste,ES,original,10,False,Baixa Probabilidade
+CH1242,C0199,2,outro,True,2024-08-06,Centro-Oeste,MT,original,8,False,Baixa Probabilidade
+CH1243,C0120,1,baixa qualidade de impressão,True,2024-12-25,Sul,RS,generico,7,False,Baixa Probabilidade
+CH1244,C0160,1,baixa qualidade de impressão,True,2024-12-02,Centro-Oeste,MT,original,10,False,Baixa Probabilidade
+CH1245,C0034,4,vazamento de tinta,False,2025-05-05,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1246,C0021,1,outro,True,2025-03-11,Sul,RS,original,6,False,Baixa Probabilidade
+CH1247,C0010,2,outro,True,2024-11-28,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1248,C0177,2,baixa qualidade de impressão,True,2025-03-07,Nordeste,CE,generico,7,False,Baixa Probabilidade
+CH1249,C0008,3,danificou a impressora,False,2025-01-15,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1250,C0017,1,baixa qualidade de impressão,True,2025-05-19,Sudeste,MG,original,9,False,Baixa Probabilidade
+CH1251,C0051,3,danificou a impressora,False,2025-01-29,Sudeste,ES,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1252,C0038,3,vazamento de tinta,False,2025-04-28,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1253,C0036,2,baixa qualidade de impressão,True,2024-07-04,Norte,AC,generico,4,False,Baixa Probabilidade
+CH1254,C0002,1,outro,True,2024-09-16,Sul,PR,original,9,False,Baixa Probabilidade
+CH1255,C0168,1,baixa qualidade de impressão,True,2024-11-15,Sul,SC,original,9,False,Baixa Probabilidade
+CH1256,C0172,4,vazamento de tinta,False,2025-02-17,Sul,SC,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1257,C0039,1,falha de reconhecimento,True,2024-11-25,Norte,AC,original,10,False,Baixa Probabilidade
+CH1258,C0086,1,outro,True,2024-09-06,Centro-Oeste,MS,original,7,False,Baixa Probabilidade
+CH1259,C0050,5,vazamento de tinta,False,2024-12-09,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1260,C0097,1,baixa qualidade de impressão,True,2025-01-31,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1261,C0106,2,baixa qualidade de impressão,True,2024-07-31,Sudeste,ES,original,6,False,Baixa Probabilidade
+CH1262,C0106,1,falha de reconhecimento,True,2025-06-03,Nordeste,MA,original,8,False,Baixa Probabilidade
+CH1263,C0137,2,outro,True,2025-05-27,Nordeste,PE,generico,6,False,Baixa Probabilidade
+CH1264,C0075,1,baixa qualidade de impressão,True,2025-05-27,Centro-Oeste,DF,generico,7,False,Baixa Probabilidade
+CH1265,C0138,1,baixa qualidade de impressão,True,2025-04-20,Norte,AC,original,10,True,Baixa Probabilidade
+CH1266,C0173,5,falha de reconhecimento,False,2024-10-30,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1267,C0080,4,vazamento de tinta,False,2024-12-10,Norte,TO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1268,C0060,5,vazamento de tinta,False,2025-05-17,Sudeste,ES,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1269,C0058,1,outro,True,2025-01-21,Nordeste,CE,original,10,False,Baixa Probabilidade
+CH1270,C0063,5,falha de reconhecimento,False,2025-02-18,Centro-Oeste,DF,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1271,C0045,4,danificou a impressora,False,2024-11-30,Nordeste,CE,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1272,C0047,1,falha de reconhecimento,True,2025-04-27,Centro-Oeste,MT,generico,7,False,Baixa Probabilidade
+CH1273,C0003,3,danificou a impressora,False,2025-04-26,Sul,RS,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1274,C0147,4,vazamento de tinta,False,2025-04-28,Norte,AM,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1275,C0149,1,falha de reconhecimento,True,2024-07-25,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1276,C0041,3,danificou a impressora,False,2024-06-17,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1277,C0106,5,vazamento de tinta,False,2024-07-15,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1278,C0144,2,outro,True,2024-07-13,Sudeste,ES,original,6,False,Baixa Probabilidade
+CH1279,C0107,4,vazamento de tinta,False,2025-01-07,Nordeste,CE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1280,C0148,5,vazamento de tinta,False,2024-08-07,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1281,C0165,2,baixa qualidade de impressão,True,2024-07-06,Sudeste,MG,original,10,False,Baixa Probabilidade
+CH1282,C0085,1,baixa qualidade de impressão,True,2024-07-24,Sul,RS,original,10,False,Baixa Probabilidade
+CH1283,C0086,1,outro,True,2025-03-22,Nordeste,CE,original,9,False,Baixa Probabilidade
+CH1284,C0177,2,baixa qualidade de impressão,True,2025-02-24,Sul,SC,generico,4,False,Baixa Probabilidade
+CH1285,C0057,2,outro,True,2025-01-29,Norte,TO,original,9,True,Baixa Probabilidade
+CH1286,C0099,5,vazamento de tinta,False,2025-04-09,Sul,SC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1287,C0110,1,baixa qualidade de impressão,True,2024-12-30,Sudeste,SP,generico,6,False,Baixa Probabilidade
+CH1288,C0058,1,baixa qualidade de impressão,True,2024-11-01,Nordeste,PE,original,8,False,Baixa Probabilidade
+CH1289,C0006,1,outro,True,2024-09-21,Sudeste,ES,original,8,False,Baixa Probabilidade
+CH1290,C0074,3,danificou a impressora,False,2025-04-30,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1291,C0143,2,falha de reconhecimento,True,2024-09-30,Sudeste,SP,original,9,False,Baixa Probabilidade
+CH1292,C0027,4,vazamento de tinta,False,2025-03-07,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1293,C0160,1,baixa qualidade de impressão,True,2024-08-18,Norte,TO,original,8,False,Baixa Probabilidade
+CH1294,C0119,1,baixa qualidade de impressão,True,2024-11-05,Norte,PA,original,10,False,Baixa Probabilidade
+CH1295,C0059,5,danificou a impressora,False,2025-01-13,Sudeste,SP,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1296,C0126,1,baixa qualidade de impressão,True,2024-06-17,Sudeste,ES,generico,6,False,Baixa Probabilidade
+CH1297,C0108,4,falha de reconhecimento,False,2024-09-12,Sul,SC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1298,C0156,2,falha de reconhecimento,True,2025-04-02,Sul,SC,original,7,False,Baixa Probabilidade
+CH1299,C0185,2,baixa qualidade de impressão,True,2024-08-31,Sudeste,MG,generico,5,False,Baixa Probabilidade
+CH1300,C0125,2,baixa qualidade de impressão,True,2024-10-12,Nordeste,MA,original,6,False,Baixa Probabilidade
+CH1301,C0087,5,danificou a impressora,False,2024-12-07,Nordeste,CE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1302,C0021,3,vazamento de tinta,False,2025-05-08,Centro-Oeste,DF,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1303,C0137,1,outro,True,2024-06-27,Sudeste,MG,original,8,True,Baixa Probabilidade
+CH1304,C0120,2,outro,True,2024-09-08,Sudeste,ES,original,8,False,Baixa Probabilidade
+CH1305,C0168,2,outro,True,2024-09-14,Sudeste,MG,original,6,False,Baixa Probabilidade
+CH1306,C0028,5,danificou a impressora,False,2025-02-15,Sul,PR,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1307,C0019,2,baixa qualidade de impressão,True,2025-01-06,Nordeste,MA,original,9,True,Baixa Probabilidade
+CH1308,C0120,4,danificou a impressora,False,2024-11-06,Nordeste,PE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1309,C0041,4,danificou a impressora,False,2024-10-04,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1310,C0183,2,falha de reconhecimento,True,2024-10-04,Sul,RS,original,8,False,Baixa Probabilidade
+CH1311,C0149,3,danificou a impressora,False,2024-07-27,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1312,C0035,2,outro,True,2025-05-21,Nordeste,CE,original,9,False,Baixa Probabilidade
+CH1313,C0052,2,outro,True,2024-07-03,Norte,TO,original,6,False,Baixa Probabilidade
+CH1314,C0028,3,falha de reconhecimento,False,2024-07-04,Centro-Oeste,MT,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1315,C0183,2,falha de reconhecimento,True,2024-09-27,Centro-Oeste,DF,original,6,True,Baixa Probabilidade
+CH1316,C0027,4,falha de reconhecimento,False,2025-01-25,Sudeste,MG,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1317,C0035,2,baixa qualidade de impressão,True,2024-06-28,Sudeste,ES,original,6,True,Baixa Probabilidade
+CH1318,C0090,1,falha de reconhecimento,True,2024-07-07,Nordeste,BA,original,8,True,Baixa Probabilidade
+CH1319,C0037,3,vazamento de tinta,False,2025-05-06,Norte,TO,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1320,C0039,1,baixa qualidade de impressão,True,2024-07-19,Norte,TO,original,10,False,Baixa Probabilidade
+CH1321,C0072,1,baixa qualidade de impressão,True,2025-06-08,Norte,PA,original,6,False,Baixa Probabilidade
+CH1322,C0153,1,falha de reconhecimento,True,2024-07-27,Sul,SC,generico,3,False,Baixa Probabilidade
+CH1323,C0161,2,baixa qualidade de impressão,True,2024-10-16,Norte,PA,original,9,False,Baixa Probabilidade
+CH1324,C0143,2,falha de reconhecimento,True,2024-11-18,Centro-Oeste,MT,original,7,False,Baixa Probabilidade
+CH1325,C0051,1,baixa qualidade de impressão,True,2024-07-01,Centro-Oeste,MT,original,8,False,Baixa Probabilidade
+CH1326,C0040,1,baixa qualidade de impressão,True,2024-11-15,Sul,RS,original,6,True,Baixa Probabilidade
+CH1327,C0062,1,baixa qualidade de impressão,True,2025-03-09,Sudeste,RJ,generico,6,False,Baixa Probabilidade
+CH1328,C0173,3,falha de reconhecimento,False,2024-09-01,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1329,C0195,2,outro,True,2024-08-07,Sul,PR,original,8,False,Baixa Probabilidade
+CH1330,C0118,1,falha de reconhecimento,True,2025-04-21,Norte,AM,original,9,False,Baixa Probabilidade
+CH1331,C0065,5,vazamento de tinta,False,2025-02-10,Sul,PR,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1332,C0139,4,falha de reconhecimento,False,2024-07-30,Sul,SC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1333,C0031,1,outro,True,2025-01-13,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1334,C0155,5,vazamento de tinta,False,2024-08-05,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1335,C0125,2,baixa qualidade de impressão,True,2025-03-21,Centro-Oeste,MS,generico,7,False,Baixa Probabilidade
+CH1336,C0134,2,falha de reconhecimento,True,2025-02-27,Norte,AM,original,8,False,Baixa Probabilidade
+CH1337,C0022,1,baixa qualidade de impressão,True,2025-05-05,Sudeste,MG,original,10,False,Baixa Probabilidade
+CH1338,C0098,5,vazamento de tinta,False,2024-08-20,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1339,C0139,1,baixa qualidade de impressão,True,2024-09-16,Sul,PR,original,10,False,Baixa Probabilidade
+CH1340,C0099,2,baixa qualidade de impressão,True,2024-09-05,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1341,C0005,2,outro,True,2024-12-25,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1342,C0047,1,falha de reconhecimento,True,2025-05-01,Norte,AM,original,10,False,Baixa Probabilidade
+CH1343,C0012,1,baixa qualidade de impressão,True,2025-04-02,Sul,SC,generico,6,False,Baixa Probabilidade
+CH1344,C0161,1,baixa qualidade de impressão,True,2024-11-09,Nordeste,CE,original,6,False,Baixa Probabilidade
+CH1345,C0082,1,falha de reconhecimento,True,2025-02-20,Nordeste,MA,original,10,False,Baixa Probabilidade
+CH1346,C0173,1,baixa qualidade de impressão,True,2024-12-09,Centro-Oeste,MS,original,8,False,Baixa Probabilidade
+CH1347,C0031,2,baixa qualidade de impressão,True,2024-07-31,Sul,SC,original,8,False,Baixa Probabilidade
+CH1348,C0126,2,outro,True,2024-09-25,Sudeste,MG,original,6,False,Baixa Probabilidade
+CH1349,C0026,1,baixa qualidade de impressão,True,2025-05-10,Nordeste,CE,original,9,False,Baixa Probabilidade
+CH1350,C0141,1,outro,True,2025-03-04,Sul,PR,generico,3,False,Baixa Probabilidade
+CH1351,C0023,2,baixa qualidade de impressão,True,2024-12-10,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1352,C0173,1,outro,True,2025-01-23,Sul,SC,original,7,True,Baixa Probabilidade
+CH1353,C0102,4,danificou a impressora,False,2024-08-25,Sul,SC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1354,C0195,2,baixa qualidade de impressão,True,2024-10-26,Nordeste,BA,original,10,False,Baixa Probabilidade
+CH1355,C0158,1,baixa qualidade de impressão,True,2025-05-24,Nordeste,CE,original,6,False,Baixa Probabilidade
+CH1356,C0032,2,outro,True,2025-04-24,Sul,SC,original,9,False,Baixa Probabilidade
+CH1357,C0152,4,danificou a impressora,False,2025-06-04,Centro-Oeste,DF,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1358,C0119,4,vazamento de tinta,False,2024-11-24,Sudeste,SP,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1359,C0049,5,vazamento de tinta,False,2024-11-14,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1360,C0038,2,outro,True,2025-01-28,Centro-Oeste,DF,original,10,False,Baixa Probabilidade
+CH1361,C0121,1,falha de reconhecimento,True,2025-03-25,Sudeste,SP,generico,6,False,Baixa Probabilidade
+CH1362,C0177,2,outro,True,2024-08-04,Centro-Oeste,GO,original,7,True,Baixa Probabilidade
+CH1363,C0120,1,baixa qualidade de impressão,True,2024-09-16,Norte,TO,original,10,False,Baixa Probabilidade
+CH1364,C0196,2,baixa qualidade de impressão,True,2025-03-07,Sul,RS,original,8,False,Baixa Probabilidade
+CH1365,C0048,2,baixa qualidade de impressão,True,2024-06-20,Sudeste,ES,original,7,False,Baixa Probabilidade
+CH1366,C0124,1,baixa qualidade de impressão,True,2024-08-10,Nordeste,PE,generico,4,False,Baixa Probabilidade
+CH1367,C0184,2,falha de reconhecimento,True,2025-06-13,Norte,PA,original,7,False,Baixa Probabilidade
+CH1368,C0028,2,baixa qualidade de impressão,True,2024-11-01,Norte,TO,original,6,False,Baixa Probabilidade
+CH1369,C0013,4,danificou a impressora,False,2025-04-03,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1370,C0046,4,vazamento de tinta,False,2025-01-29,Sudeste,RJ,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1371,C0163,1,baixa qualidade de impressão,True,2024-10-31,Sudeste,SP,generico,6,True,Baixa Probabilidade
+CH1372,C0122,2,falha de reconhecimento,True,2024-12-17,Sul,PR,original,6,False,Baixa Probabilidade
+CH1373,C0170,2,baixa qualidade de impressão,True,2024-10-15,Sul,PR,original,10,False,Baixa Probabilidade
+CH1374,C0057,2,falha de reconhecimento,True,2025-01-07,Sudeste,SP,original,10,False,Baixa Probabilidade
+CH1375,C0075,1,falha de reconhecimento,True,2025-01-10,Sudeste,SP,original,8,False,Baixa Probabilidade
+CH1376,C0098,1,falha de reconhecimento,True,2025-02-03,Nordeste,CE,original,7,False,Baixa Probabilidade
+CH1377,C0056,2,falha de reconhecimento,True,2024-06-19,Sul,PR,original,6,False,Baixa Probabilidade
+CH1378,C0185,2,baixa qualidade de impressão,True,2024-06-30,Norte,TO,original,10,False,Baixa Probabilidade
+CH1379,C0156,1,baixa qualidade de impressão,True,2024-10-17,Nordeste,PE,generico,6,False,Baixa Probabilidade
+CH1380,C0026,3,vazamento de tinta,False,2025-01-06,Sul,SC,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1381,C0178,4,vazamento de tinta,False,2024-08-26,Centro-Oeste,MT,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1382,C0062,2,falha de reconhecimento,True,2024-10-24,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1383,C0108,2,outro,True,2025-04-09,Nordeste,MA,original,9,False,Baixa Probabilidade
+CH1384,C0099,2,falha de reconhecimento,True,2024-09-15,Centro-Oeste,GO,generico,3,False,Baixa Probabilidade
+CH1385,C0019,4,danificou a impressora,False,2024-09-04,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1386,C0059,1,outro,True,2025-06-08,Centro-Oeste,MT,original,7,False,Baixa Probabilidade
+CH1387,C0096,4,danificou a impressora,False,2025-03-20,Sudeste,ES,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1388,C0086,2,baixa qualidade de impressão,True,2024-10-04,Norte,PA,original,10,False,Baixa Probabilidade
+CH1389,C0171,4,vazamento de tinta,False,2025-03-17,Sudeste,ES,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1390,C0022,1,baixa qualidade de impressão,True,2024-10-11,Nordeste,PE,generico,7,False,Baixa Probabilidade
+CH1391,C0155,1,baixa qualidade de impressão,True,2025-03-14,Norte,AM,original,6,False,Baixa Probabilidade
+CH1392,C0163,5,danificou a impressora,False,2025-02-20,Sudeste,SP,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1393,C0093,1,baixa qualidade de impressão,True,2025-02-20,Centro-Oeste,DF,generico,3,False,Baixa Probabilidade
+CH1394,C0087,1,falha de reconhecimento,True,2024-11-07,Sul,RS,original,6,False,Baixa Probabilidade
+CH1395,C0068,1,falha de reconhecimento,True,2024-12-10,Sudeste,SP,original,9,False,Baixa Probabilidade
+CH1396,C0199,1,outro,True,2024-10-17,Norte,TO,original,9,False,Baixa Probabilidade
+CH1397,C0116,3,vazamento de tinta,False,2024-07-27,Norte,AC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1398,C0122,1,baixa qualidade de impressão,True,2025-05-23,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1399,C0024,1,falha de reconhecimento,True,2024-06-30,Centro-Oeste,GO,original,10,False,Baixa Probabilidade
+CH1400,C0181,1,falha de reconhecimento,True,2024-11-16,Centro-Oeste,GO,original,10,False,Baixa Probabilidade
+CH1401,C0003,2,falha de reconhecimento,True,2024-07-08,Nordeste,BA,generico,5,False,Baixa Probabilidade
+CH1402,C0058,4,falha de reconhecimento,False,2024-12-13,Norte,PA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1403,C0126,5,falha de reconhecimento,False,2024-11-15,Nordeste,PE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1404,C0054,1,baixa qualidade de impressão,True,2024-10-04,Sudeste,RJ,original,7,False,Baixa Probabilidade
+CH1405,C0009,4,vazamento de tinta,False,2025-02-25,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1406,C0153,3,vazamento de tinta,False,2024-08-28,Sudeste,MG,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1407,C0081,2,baixa qualidade de impressão,True,2025-02-10,Sul,PR,original,8,False,Baixa Probabilidade
+CH1408,C0057,5,vazamento de tinta,False,2024-07-11,Sul,SC,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1409,C0052,3,danificou a impressora,False,2024-12-15,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1410,C0192,1,baixa qualidade de impressão,True,2025-03-30,Sudeste,MG,original,9,False,Baixa Probabilidade
+CH1411,C0058,2,baixa qualidade de impressão,True,2024-12-30,Nordeste,BA,original,8,False,Baixa Probabilidade
+CH1412,C0083,1,falha de reconhecimento,True,2024-11-24,Sudeste,MG,generico,7,False,Baixa Probabilidade
+CH1413,C0080,4,falha de reconhecimento,False,2025-06-14,Sul,PR,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1414,C0120,1,falha de reconhecimento,True,2024-11-18,Sudeste,MG,original,8,False,Baixa Probabilidade
+CH1415,C0072,3,vazamento de tinta,False,2025-01-27,Sul,PR,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1416,C0145,1,falha de reconhecimento,True,2025-05-28,Sul,RS,original,8,False,Baixa Probabilidade
+CH1417,C0197,4,vazamento de tinta,False,2024-12-16,Centro-Oeste,DF,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1418,C0135,2,falha de reconhecimento,True,2024-07-13,Centro-Oeste,DF,original,10,False,Baixa Probabilidade
+CH1419,C0063,1,baixa qualidade de impressão,True,2024-08-02,Sul,RS,original,7,False,Baixa Probabilidade
+CH1420,C0169,2,falha de reconhecimento,True,2024-09-23,Sudeste,MG,original,6,False,Baixa Probabilidade
+CH1421,C0098,2,falha de reconhecimento,True,2024-10-29,Sudeste,SP,original,7,False,Baixa Probabilidade
+CH1422,C0020,4,danificou a impressora,False,2024-07-29,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1423,C0158,2,outro,True,2025-03-08,Nordeste,CE,original,7,False,Baixa Probabilidade
+CH1424,C0059,1,baixa qualidade de impressão,True,2025-04-29,Sudeste,RJ,original,6,False,Baixa Probabilidade
+CH1425,C0149,4,danificou a impressora,False,2024-08-19,Sudeste,ES,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1426,C0068,1,baixa qualidade de impressão,True,2024-12-22,Sul,SC,generico,6,False,Baixa Probabilidade
+CH1427,C0166,4,danificou a impressora,False,2024-07-10,Nordeste,CE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1428,C0127,1,baixa qualidade de impressão,True,2024-07-03,Sudeste,ES,original,6,False,Baixa Probabilidade
+CH1429,C0017,1,baixa qualidade de impressão,True,2025-04-14,Norte,TO,original,6,False,Baixa Probabilidade
+CH1430,C0110,4,vazamento de tinta,False,2024-08-06,Sul,SC,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1431,C0161,2,baixa qualidade de impressão,True,2024-08-01,Sudeste,ES,original,7,False,Baixa Probabilidade
+CH1432,C0077,1,falha de reconhecimento,True,2024-11-19,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1433,C0073,5,danificou a impressora,False,2024-12-16,Norte,AM,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1434,C0037,2,falha de reconhecimento,True,2024-12-30,Norte,PA,original,7,False,Baixa Probabilidade
+CH1435,C0164,1,outro,True,2024-12-13,Sudeste,RJ,original,7,False,Baixa Probabilidade
+CH1436,C0004,1,baixa qualidade de impressão,True,2025-06-13,Nordeste,CE,original,9,False,Baixa Probabilidade
+CH1437,C0166,1,outro,True,2024-10-17,Sul,RS,original,10,True,Baixa Probabilidade
+CH1438,C0199,1,falha de reconhecimento,True,2024-09-06,Norte,AC,original,10,True,Baixa Probabilidade
+CH1439,C0056,1,baixa qualidade de impressão,True,2024-08-18,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1440,C0032,1,baixa qualidade de impressão,True,2024-11-15,Nordeste,BA,original,7,False,Baixa Probabilidade
+CH1441,C0061,1,outro,True,2025-04-01,Sul,PR,original,6,False,Baixa Probabilidade
+CH1442,C0195,1,falha de reconhecimento,True,2025-02-24,Norte,TO,original,10,False,Baixa Probabilidade
+CH1443,C0151,1,baixa qualidade de impressão,True,2024-11-19,Nordeste,PE,original,9,False,Baixa Probabilidade
+CH1444,C0126,4,falha de reconhecimento,False,2025-01-05,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1445,C0028,5,vazamento de tinta,False,2025-01-15,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1446,C0072,1,baixa qualidade de impressão,True,2024-06-27,Sul,RS,original,8,False,Baixa Probabilidade
+CH1447,C0141,2,baixa qualidade de impressão,True,2024-08-25,Centro-Oeste,GO,generico,3,False,Baixa Probabilidade
+CH1448,C0128,1,baixa qualidade de impressão,True,2025-03-05,Sul,RS,original,6,False,Baixa Probabilidade
+CH1449,C0053,2,falha de reconhecimento,True,2024-09-07,Centro-Oeste,GO,original,10,False,Baixa Probabilidade
+CH1450,C0124,2,falha de reconhecimento,True,2024-06-17,Nordeste,CE,original,6,False,Baixa Probabilidade
+CH1451,C0179,5,vazamento de tinta,False,2024-09-18,Norte,AM,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1452,C0131,4,vazamento de tinta,False,2025-04-29,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1453,C0194,4,vazamento de tinta,False,2024-07-16,Sudeste,ES,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1454,C0116,1,baixa qualidade de impressão,True,2024-11-07,Sudeste,RJ,original,9,False,Baixa Probabilidade
+CH1455,C0067,4,danificou a impressora,False,2025-02-04,Nordeste,PE,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1456,C0060,2,baixa qualidade de impressão,True,2024-07-03,Nordeste,BA,generico,5,False,Baixa Probabilidade
+CH1457,C0159,1,baixa qualidade de impressão,True,2024-06-24,Sul,SC,original,9,False,Baixa Probabilidade
+CH1458,C0112,1,falha de reconhecimento,True,2025-04-18,Norte,AM,original,8,False,Baixa Probabilidade
+CH1459,C0071,1,outro,True,2025-04-13,Sudeste,SP,original,6,False,Baixa Probabilidade
+CH1460,C0090,1,falha de reconhecimento,True,2025-04-23,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1461,C0016,5,vazamento de tinta,False,2024-11-06,Nordeste,PE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1462,C0138,1,falha de reconhecimento,True,2025-01-21,Sul,PR,original,7,False,Baixa Probabilidade
+CH1463,C0062,2,falha de reconhecimento,True,2024-12-25,Centro-Oeste,GO,original,8,False,Baixa Probabilidade
+CH1464,C0156,2,baixa qualidade de impressão,True,2024-09-10,Norte,AC,original,7,False,Baixa Probabilidade
+CH1465,C0119,4,danificou a impressora,False,2024-10-02,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1466,C0165,4,vazamento de tinta,False,2024-08-04,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1467,C0120,2,baixa qualidade de impressão,True,2025-03-04,Centro-Oeste,MS,generico,5,False,Baixa Probabilidade
+CH1468,C0077,2,falha de reconhecimento,True,2025-01-27,Sudeste,ES,generico,7,True,Baixa Probabilidade
+CH1469,C0043,1,outro,True,2024-08-29,Centro-Oeste,GO,generico,7,False,Baixa Probabilidade
+CH1470,C0187,2,falha de reconhecimento,True,2024-06-25,Sul,RS,original,10,False,Baixa Probabilidade
+CH1471,C0160,5,vazamento de tinta,False,2025-02-11,Sudeste,SP,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1472,C0138,2,outro,True,2025-01-14,Centro-Oeste,MS,original,8,False,Baixa Probabilidade
+CH1473,C0020,1,outro,True,2025-04-26,Sudeste,SP,generico,6,False,Baixa Probabilidade
+CH1474,C0149,2,outro,True,2025-01-12,Sudeste,SP,original,6,False,Baixa Probabilidade
+CH1475,C0055,2,outro,True,2024-07-06,Sudeste,MG,original,10,True,Baixa Probabilidade
+CH1476,C0182,5,danificou a impressora,False,2025-03-04,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1477,C0150,1,baixa qualidade de impressão,True,2025-04-18,Nordeste,CE,generico,4,True,Baixa Probabilidade
+CH1478,C0043,2,outro,True,2025-06-03,Sul,SC,generico,5,False,Baixa Probabilidade
+CH1479,C0066,2,falha de reconhecimento,True,2025-01-19,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1480,C0008,4,vazamento de tinta,False,2025-01-23,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1481,C0174,1,falha de reconhecimento,True,2024-12-19,Nordeste,CE,generico,5,False,Baixa Probabilidade
+CH1482,C0037,1,falha de reconhecimento,True,2024-10-28,Norte,AC,original,10,True,Baixa Probabilidade
+CH1483,C0053,1,falha de reconhecimento,True,2025-04-06,Sudeste,RJ,generico,7,True,Baixa Probabilidade
+CH1484,C0108,5,vazamento de tinta,False,2025-04-25,Centro-Oeste,DF,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1485,C0015,5,falha de reconhecimento,False,2024-10-23,Centro-Oeste,DF,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1486,C0056,5,vazamento de tinta,False,2025-04-17,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1487,C0138,3,vazamento de tinta,False,2024-09-07,Nordeste,BA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1488,C0086,2,baixa qualidade de impressão,True,2024-08-18,Sudeste,ES,generico,4,False,Baixa Probabilidade
+CH1489,C0096,4,danificou a impressora,False,2025-02-24,Nordeste,CE,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1490,C0060,1,baixa qualidade de impressão,True,2024-12-14,Sul,RS,generico,4,False,Baixa Probabilidade
+CH1491,C0009,3,danificou a impressora,False,2025-03-02,Centro-Oeste,GO,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1492,C0015,5,falha de reconhecimento,False,2025-01-19,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1493,C0082,1,baixa qualidade de impressão,True,2025-04-29,Nordeste,CE,original,8,False,Baixa Probabilidade
+CH1494,C0018,5,vazamento de tinta,False,2024-07-14,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1495,C0134,1,falha de reconhecimento,True,2025-01-07,Nordeste,BA,generico,6,False,Baixa Probabilidade
+CH1496,C0187,4,falha de reconhecimento,False,2024-10-22,Sul,PR,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1497,C0150,2,outro,True,2024-10-03,Sudeste,RJ,original,6,False,Baixa Probabilidade
+CH1498,C0187,5,falha de reconhecimento,False,2025-02-09,Sul,RS,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1499,C0169,3,falha de reconhecimento,False,2025-06-03,Sudeste,ES,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1500,C0045,2,baixa qualidade de impressão,True,2024-09-16,Nordeste,BA,original,6,False,Baixa Probabilidade
+CH1501,C0152,2,outro,True,2024-10-30,Sudeste,SP,generico,5,False,Baixa Probabilidade
+CH1502,C0156,2,falha de reconhecimento,True,2024-11-07,Centro-Oeste,DF,original,6,False,Baixa Probabilidade
+CH1503,C0094,1,baixa qualidade de impressão,True,2024-11-27,Norte,TO,original,6,False,Baixa Probabilidade
+CH1504,C0180,1,baixa qualidade de impressão,True,2025-06-15,Nordeste,PE,original,6,False,Baixa Probabilidade
+CH1505,C0044,4,vazamento de tinta,False,2024-10-22,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1506,C0185,5,vazamento de tinta,False,2024-12-08,Sudeste,RJ,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1507,C0115,1,falha de reconhecimento,True,2025-04-21,Centro-Oeste,DF,original,7,False,Baixa Probabilidade
+CH1508,C0134,2,baixa qualidade de impressão,True,2024-07-07,Sudeste,MG,generico,3,False,Baixa Probabilidade
+CH1509,C0049,4,danificou a impressora,False,2024-09-16,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1510,C0006,2,baixa qualidade de impressão,True,2024-11-10,Norte,PA,original,10,False,Baixa Probabilidade
+CH1511,C0177,4,vazamento de tinta,False,2024-10-31,Sudeste,SP,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1512,C0188,2,baixa qualidade de impressão,True,2024-08-16,Sul,SC,original,8,False,Baixa Probabilidade
+CH1513,C0040,2,baixa qualidade de impressão,True,2024-12-14,Sudeste,SP,original,9,False,Baixa Probabilidade
+CH1514,C0076,5,falha de reconhecimento,False,2024-10-09,Centro-Oeste,MS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1515,C0152,2,outro,True,2024-09-06,Centro-Oeste,MS,original,7,False,Baixa Probabilidade
+CH1516,C0113,3,danificou a impressora,False,2024-06-30,Sudeste,MG,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1517,C0178,1,baixa qualidade de impressão,True,2025-01-18,Sul,SC,original,6,False,Baixa Probabilidade
+CH1518,C0084,2,baixa qualidade de impressão,True,2024-08-18,Sul,SC,original,9,False,Baixa Probabilidade
+CH1519,C0025,3,vazamento de tinta,False,2024-06-17,Centro-Oeste,DF,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1520,C0047,5,falha de reconhecimento,False,2025-01-16,Norte,AC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1521,C0192,2,falha de reconhecimento,True,2024-10-22,Centro-Oeste,MT,generico,5,False,Baixa Probabilidade
+CH1522,C0181,2,baixa qualidade de impressão,True,2024-06-21,Sul,RS,original,10,True,Baixa Probabilidade
+CH1523,C0188,1,falha de reconhecimento,True,2024-11-08,Centro-Oeste,GO,original,7,False,Baixa Probabilidade
+CH1524,C0122,1,outro,True,2025-04-01,Norte,AM,original,7,True,Baixa Probabilidade
+CH1525,C0129,2,outro,True,2024-07-16,Sul,RS,original,6,False,Baixa Probabilidade
+CH1526,C0022,1,falha de reconhecimento,True,2025-01-22,Sul,RS,original,6,False,Baixa Probabilidade
+CH1527,C0166,2,outro,True,2024-09-20,Centro-Oeste,MS,original,10,False,Baixa Probabilidade
+CH1528,C0159,5,vazamento de tinta,False,2024-11-11,Centro-Oeste,GO,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1529,C0162,3,vazamento de tinta,False,2024-10-17,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1530,C0146,3,danificou a impressora,False,2025-05-28,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1531,C0063,2,falha de reconhecimento,True,2025-01-22,Sul,RS,original,9,False,Baixa Probabilidade
+CH1532,C0071,3,vazamento de tinta,False,2025-02-08,Sul,SC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1533,C0142,5,vazamento de tinta,False,2024-11-08,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1534,C0144,3,vazamento de tinta,False,2024-09-30,Norte,TO,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1535,C0136,1,baixa qualidade de impressão,True,2025-03-05,Norte,TO,original,7,False,Baixa Probabilidade
+CH1536,C0125,1,baixa qualidade de impressão,True,2025-04-17,Centro-Oeste,MS,original,7,False,Baixa Probabilidade
+CH1537,C0098,1,falha de reconhecimento,True,2025-03-15,Norte,AC,original,7,False,Baixa Probabilidade
+CH1538,C0151,2,outro,True,2025-02-24,Norte,PA,original,6,False,Baixa Probabilidade
+CH1539,C0120,5,falha de reconhecimento,False,2024-07-14,Centro-Oeste,DF,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1540,C0041,4,falha de reconhecimento,False,2025-01-17,Centro-Oeste,DF,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1541,C0112,1,outro,True,2025-02-23,Nordeste,PE,original,9,False,Baixa Probabilidade
+CH1542,C0073,5,falha de reconhecimento,False,2025-05-17,Sul,PR,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1543,C0025,3,danificou a impressora,False,2024-08-06,Sudeste,RJ,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1544,C0094,3,vazamento de tinta,False,2024-09-23,Sudeste,RJ,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1545,C0099,3,falha de reconhecimento,False,2025-04-13,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1546,C0002,2,outro,True,2024-12-11,Sudeste,SP,original,6,True,Baixa Probabilidade
+CH1547,C0090,1,falha de reconhecimento,True,2024-10-13,Centro-Oeste,DF,original,7,False,Baixa Probabilidade
+CH1548,C0130,5,danificou a impressora,False,2025-04-14,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1549,C0124,2,baixa qualidade de impressão,True,2024-07-26,Centro-Oeste,DF,original,6,False,Baixa Probabilidade
+CH1550,C0090,4,vazamento de tinta,False,2024-09-19,Sul,PR,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1551,C0071,3,vazamento de tinta,False,2024-09-14,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1552,C0106,3,danificou a impressora,False,2024-07-25,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1553,C0063,2,baixa qualidade de impressão,True,2025-05-13,Sudeste,MG,original,9,False,Baixa Probabilidade
+CH1554,C0141,4,vazamento de tinta,False,2024-07-22,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1555,C0147,2,falha de reconhecimento,True,2025-06-11,Sul,SC,generico,3,False,Baixa Probabilidade
+CH1556,C0148,1,baixa qualidade de impressão,True,2025-01-30,Centro-Oeste,MT,original,10,False,Baixa Probabilidade
+CH1557,C0106,2,outro,True,2024-07-12,Centro-Oeste,MS,original,8,False,Baixa Probabilidade
+CH1558,C0095,2,baixa qualidade de impressão,True,2025-01-23,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1559,C0016,3,vazamento de tinta,False,2024-07-10,Norte,TO,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1560,C0004,1,outro,True,2024-12-17,Nordeste,CE,original,6,False,Baixa Probabilidade
+CH1561,C0106,2,outro,True,2024-07-20,Sul,PR,original,7,False,Baixa Probabilidade
+CH1562,C0195,4,falha de reconhecimento,False,2024-08-04,Sudeste,ES,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1563,C0182,2,baixa qualidade de impressão,True,2024-06-20,Nordeste,BA,original,7,False,Baixa Probabilidade
+CH1564,C0118,3,danificou a impressora,False,2024-10-17,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1565,C0107,4,vazamento de tinta,False,2025-04-04,Centro-Oeste,DF,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1566,C0076,4,vazamento de tinta,False,2025-04-17,Norte,TO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1567,C0066,2,falha de reconhecimento,True,2025-06-01,Sul,RS,original,7,False,Baixa Probabilidade
+CH1568,C0012,2,falha de reconhecimento,True,2024-11-12,Centro-Oeste,MT,original,7,False,Baixa Probabilidade
+CH1569,C0142,2,baixa qualidade de impressão,True,2024-11-11,Centro-Oeste,DF,original,9,False,Baixa Probabilidade
+CH1570,C0096,2,falha de reconhecimento,True,2025-01-18,Sudeste,SP,original,10,False,Baixa Probabilidade
+CH1571,C0104,5,vazamento de tinta,False,2025-03-21,Sudeste,SP,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1572,C0142,4,vazamento de tinta,False,2025-05-03,Centro-Oeste,MT,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1573,C0098,5,vazamento de tinta,False,2024-07-16,Sul,SC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1574,C0043,5,vazamento de tinta,False,2024-12-08,Sul,SC,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1575,C0032,1,outro,True,2024-09-11,Nordeste,CE,generico,7,True,Baixa Probabilidade
+CH1576,C0194,2,baixa qualidade de impressão,True,2025-04-23,Sudeste,MG,original,6,False,Baixa Probabilidade
+CH1577,C0088,2,outro,True,2025-02-25,Sul,RS,generico,5,False,Baixa Probabilidade
+CH1578,C0129,1,outro,True,2024-12-01,Norte,TO,original,8,False,Baixa Probabilidade
+CH1579,C0108,1,baixa qualidade de impressão,True,2024-12-27,Sudeste,SP,generico,5,False,Baixa Probabilidade
+CH1580,C0141,1,baixa qualidade de impressão,True,2024-11-28,Sudeste,MG,original,10,False,Baixa Probabilidade
+CH1581,C0042,1,baixa qualidade de impressão,True,2025-05-08,Sudeste,ES,original,9,False,Baixa Probabilidade
+CH1582,C0179,1,baixa qualidade de impressão,True,2024-09-14,Sul,PR,original,7,False,Baixa Probabilidade
+CH1583,C0192,2,baixa qualidade de impressão,True,2024-09-26,Sudeste,ES,original,6,False,Baixa Probabilidade
+CH1584,C0011,2,baixa qualidade de impressão,True,2025-05-01,Centro-Oeste,GO,original,9,False,Baixa Probabilidade
+CH1585,C0053,3,falha de reconhecimento,False,2025-02-20,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1586,C0118,2,falha de reconhecimento,True,2024-09-10,Nordeste,CE,original,8,False,Baixa Probabilidade
+CH1587,C0028,1,baixa qualidade de impressão,True,2024-07-03,Sudeste,RJ,original,8,True,Baixa Probabilidade
+CH1588,C0017,4,vazamento de tinta,False,2024-11-11,Norte,PA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1589,C0179,5,danificou a impressora,False,2024-07-31,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1590,C0087,1,falha de reconhecimento,True,2024-08-14,Nordeste,CE,generico,3,False,Baixa Probabilidade
+CH1591,C0052,3,danificou a impressora,False,2024-11-10,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1592,C0004,2,baixa qualidade de impressão,True,2024-10-15,Norte,PA,original,10,False,Baixa Probabilidade
+CH1593,C0123,2,outro,True,2024-10-08,Sudeste,MG,original,9,False,Baixa Probabilidade
+CH1594,C0187,1,baixa qualidade de impressão,True,2025-05-17,Nordeste,MA,generico,4,False,Baixa Probabilidade
+CH1595,C0158,4,danificou a impressora,False,2024-12-17,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1596,C0199,1,outro,True,2025-01-15,Norte,AC,generico,7,False,Baixa Probabilidade
+CH1597,C0086,2,falha de reconhecimento,True,2025-06-04,Sul,RS,generico,3,False,Baixa Probabilidade
+CH1598,C0118,1,outro,True,2024-10-01,Centro-Oeste,MS,original,10,False,Baixa Probabilidade
+CH1599,C0180,4,vazamento de tinta,False,2024-12-12,Centro-Oeste,DF,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1600,C0161,1,outro,True,2025-05-25,Sul,RS,generico,4,False,Baixa Probabilidade
+CH1601,C0194,2,baixa qualidade de impressão,True,2024-11-08,Norte,AC,original,10,False,Baixa Probabilidade
+CH1602,C0179,1,baixa qualidade de impressão,True,2024-07-21,Sul,RS,generico,7,False,Baixa Probabilidade
+CH1603,C0039,1,baixa qualidade de impressão,True,2025-05-12,Centro-Oeste,MS,original,8,False,Baixa Probabilidade
+CH1604,C0006,2,falha de reconhecimento,True,2025-03-23,Norte,TO,original,7,False,Baixa Probabilidade
+CH1605,C0195,5,danificou a impressora,False,2024-07-17,Norte,AC,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1606,C0077,5,vazamento de tinta,False,2025-02-23,Norte,PA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1607,C0172,5,danificou a impressora,False,2024-08-14,Sul,RS,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1608,C0012,2,baixa qualidade de impressão,True,2025-05-22,Sudeste,RJ,original,6,False,Baixa Probabilidade
+CH1609,C0018,1,falha de reconhecimento,True,2025-04-21,Norte,TO,original,9,False,Baixa Probabilidade
+CH1610,C0155,1,baixa qualidade de impressão,True,2024-07-28,Nordeste,PE,original,6,True,Baixa Probabilidade
+CH1611,C0154,2,outro,True,2025-02-18,Nordeste,MA,original,10,False,Baixa Probabilidade
+CH1612,C0082,2,falha de reconhecimento,True,2024-10-10,Sul,PR,original,9,True,Baixa Probabilidade
+CH1613,C0183,1,baixa qualidade de impressão,True,2025-04-26,Nordeste,BA,original,10,False,Baixa Probabilidade
+CH1614,C0171,1,baixa qualidade de impressão,True,2024-12-11,Norte,AC,original,9,False,Baixa Probabilidade
+CH1615,C0033,1,baixa qualidade de impressão,True,2024-12-30,Sul,PR,original,10,False,Baixa Probabilidade
+CH1616,C0080,2,falha de reconhecimento,True,2025-05-01,Norte,AM,generico,6,False,Baixa Probabilidade
+CH1617,C0072,5,danificou a impressora,False,2025-04-12,Centro-Oeste,GO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1618,C0134,2,falha de reconhecimento,True,2024-08-07,Nordeste,BA,original,10,False,Baixa Probabilidade
+CH1619,C0103,1,baixa qualidade de impressão,True,2025-02-02,Sul,PR,original,8,False,Baixa Probabilidade
+CH1620,C0091,1,baixa qualidade de impressão,True,2024-10-13,Norte,AM,original,10,False,Baixa Probabilidade
+CH1621,C0117,3,vazamento de tinta,False,2024-07-20,Nordeste,PE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1622,C0038,5,danificou a impressora,False,2024-06-26,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1623,C0152,3,vazamento de tinta,False,2025-06-15,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1624,C0153,4,danificou a impressora,False,2024-11-17,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1625,C0025,1,baixa qualidade de impressão,True,2025-05-13,Norte,AC,original,6,False,Baixa Probabilidade
+CH1626,C0089,2,falha de reconhecimento,True,2025-05-17,Sul,SC,original,6,True,Baixa Probabilidade
+CH1627,C0018,3,falha de reconhecimento,False,2025-02-27,Sul,RS,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1628,C0137,3,vazamento de tinta,False,2024-10-12,Sudeste,SP,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1629,C0005,2,outro,True,2025-03-13,Sul,RS,generico,6,False,Baixa Probabilidade
+CH1630,C0105,2,baixa qualidade de impressão,True,2024-08-22,Centro-Oeste,GO,original,10,True,Baixa Probabilidade
+CH1631,C0141,3,danificou a impressora,False,2024-08-12,Centro-Oeste,GO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1632,C0199,5,danificou a impressora,False,2025-01-10,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1633,C0179,1,falha de reconhecimento,True,2025-01-14,Centro-Oeste,MT,generico,6,True,Baixa Probabilidade
+CH1634,C0013,2,baixa qualidade de impressão,True,2024-07-11,Sudeste,RJ,original,7,False,Baixa Probabilidade
+CH1635,C0192,2,baixa qualidade de impressão,True,2025-05-12,Nordeste,MA,original,6,False,Baixa Probabilidade
+CH1636,C0183,5,falha de reconhecimento,False,2025-01-23,Nordeste,BA,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1637,C0111,5,vazamento de tinta,False,2025-05-05,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1638,C0017,3,falha de reconhecimento,False,2025-06-10,Sudeste,SP,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1639,C0152,4,danificou a impressora,False,2025-01-15,Nordeste,PE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1640,C0075,1,baixa qualidade de impressão,True,2024-12-22,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1641,C0021,1,falha de reconhecimento,True,2025-02-27,Sudeste,MG,generico,6,False,Baixa Probabilidade
+CH1642,C0129,2,falha de reconhecimento,True,2025-06-09,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1643,C0027,2,outro,True,2024-12-20,Sul,RS,original,6,False,Baixa Probabilidade
+CH1644,C0063,1,baixa qualidade de impressão,True,2024-12-23,Sudeste,ES,original,10,False,Baixa Probabilidade
+CH1645,C0190,2,falha de reconhecimento,True,2024-07-13,Norte,TO,original,6,False,Baixa Probabilidade
+CH1646,C0050,4,vazamento de tinta,False,2024-08-28,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1647,C0008,2,outro,True,2024-09-20,Norte,AM,original,10,False,Baixa Probabilidade
+CH1648,C0001,5,vazamento de tinta,False,2024-12-06,Nordeste,PE,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1649,C0153,5,vazamento de tinta,False,2025-04-21,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1650,C0094,1,baixa qualidade de impressão,True,2024-09-16,Sul,RS,generico,7,False,Baixa Probabilidade
+CH1651,C0080,4,falha de reconhecimento,False,2025-03-27,Sul,SC,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1652,C0069,5,vazamento de tinta,False,2024-12-13,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1653,C0066,4,falha de reconhecimento,False,2024-10-08,Norte,AM,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1654,C0110,1,outro,True,2024-12-27,Sul,PR,original,9,False,Baixa Probabilidade
+CH1655,C0059,2,baixa qualidade de impressão,True,2024-06-19,Sul,PR,original,9,False,Baixa Probabilidade
+CH1656,C0056,2,outro,True,2025-03-29,Centro-Oeste,MT,original,10,False,Baixa Probabilidade
+CH1657,C0146,1,baixa qualidade de impressão,True,2024-09-26,Sul,SC,original,9,False,Baixa Probabilidade
+CH1658,C0040,4,danificou a impressora,False,2024-06-18,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1659,C0029,2,outro,True,2025-02-08,Sudeste,RJ,original,7,False,Baixa Probabilidade
+CH1660,C0020,2,outro,True,2024-08-01,Sudeste,RJ,generico,3,False,Baixa Probabilidade
+CH1661,C0185,5,vazamento de tinta,False,2025-02-10,Norte,AC,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1662,C0157,2,baixa qualidade de impressão,True,2024-11-21,Nordeste,PE,generico,4,False,Baixa Probabilidade
+CH1663,C0110,1,falha de reconhecimento,True,2024-08-12,Sul,RS,original,9,True,Baixa Probabilidade
+CH1664,C0085,1,baixa qualidade de impressão,True,2025-04-16,Norte,TO,original,10,False,Baixa Probabilidade
+CH1665,C0054,3,falha de reconhecimento,False,2024-12-11,Centro-Oeste,GO,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1666,C0023,1,baixa qualidade de impressão,True,2025-06-06,Sudeste,RJ,original,10,False,Baixa Probabilidade
+CH1667,C0178,3,falha de reconhecimento,False,2025-02-07,Sudeste,ES,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1668,C0182,4,vazamento de tinta,False,2024-09-10,Nordeste,BA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1669,C0023,5,vazamento de tinta,False,2025-05-11,Sul,PR,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1670,C0109,1,outro,True,2025-05-12,Centro-Oeste,MT,original,7,False,Baixa Probabilidade
+CH1671,C0079,1,baixa qualidade de impressão,True,2025-03-03,Sul,PR,generico,5,False,Baixa Probabilidade
+CH1672,C0001,2,falha de reconhecimento,True,2025-02-10,Norte,AM,original,7,False,Baixa Probabilidade
+CH1673,C0188,4,falha de reconhecimento,False,2025-05-15,Sul,RS,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1674,C0015,2,baixa qualidade de impressão,True,2024-11-29,Norte,PA,original,7,False,Baixa Probabilidade
+CH1675,C0013,5,vazamento de tinta,False,2024-11-25,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1676,C0074,2,baixa qualidade de impressão,True,2024-11-12,Nordeste,BA,original,10,False,Baixa Probabilidade
+CH1677,C0057,3,vazamento de tinta,False,2024-09-16,Sul,RS,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1678,C0117,2,baixa qualidade de impressão,True,2025-04-03,Centro-Oeste,DF,original,10,False,Baixa Probabilidade
+CH1679,C0109,2,baixa qualidade de impressão,True,2024-11-05,Nordeste,BA,generico,4,False,Baixa Probabilidade
+CH1680,C0132,2,falha de reconhecimento,True,2024-10-12,Sudeste,MG,original,9,True,Baixa Probabilidade
+CH1681,C0019,4,vazamento de tinta,False,2024-07-13,Sul,RS,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1682,C0181,3,falha de reconhecimento,False,2024-12-14,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1683,C0063,1,outro,True,2024-12-09,Norte,AC,original,9,False,Baixa Probabilidade
+CH1684,C0054,1,baixa qualidade de impressão,True,2025-01-19,Norte,PA,original,7,False,Baixa Probabilidade
+CH1685,C0080,2,falha de reconhecimento,True,2025-04-14,Centro-Oeste,DF,original,6,False,Baixa Probabilidade
+CH1686,C0195,1,baixa qualidade de impressão,True,2025-05-03,Norte,PA,original,9,False,Baixa Probabilidade
+CH1687,C0161,2,falha de reconhecimento,True,2025-04-11,Norte,AC,original,10,False,Baixa Probabilidade
+CH1688,C0087,5,vazamento de tinta,False,2024-09-13,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1689,C0187,1,falha de reconhecimento,True,2025-05-03,Sudeste,RJ,original,9,False,Baixa Probabilidade
+CH1690,C0134,2,baixa qualidade de impressão,True,2025-04-06,Centro-Oeste,MS,original,8,False,Baixa Probabilidade
+CH1691,C0048,2,outro,True,2025-04-08,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1692,C0023,1,falha de reconhecimento,True,2024-09-22,Centro-Oeste,GO,original,6,False,Baixa Probabilidade
+CH1693,C0166,2,falha de reconhecimento,True,2024-10-21,Norte,TO,original,7,False,Baixa Probabilidade
+CH1694,C0034,4,vazamento de tinta,False,2024-10-02,Sul,PR,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1695,C0012,4,vazamento de tinta,False,2025-02-04,Sudeste,SP,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1696,C0082,2,baixa qualidade de impressão,True,2025-01-27,Nordeste,CE,original,10,False,Baixa Probabilidade
+CH1697,C0073,2,baixa qualidade de impressão,True,2024-06-19,Norte,AM,original,7,False,Baixa Probabilidade
+CH1698,C0014,2,baixa qualidade de impressão,True,2024-07-08,Norte,AC,original,7,True,Baixa Probabilidade
+CH1699,C0135,4,danificou a impressora,False,2025-05-03,Norte,PA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1700,C0074,2,baixa qualidade de impressão,True,2025-04-07,Centro-Oeste,DF,original,8,True,Baixa Probabilidade
+CH1701,C0085,5,vazamento de tinta,False,2024-08-07,Sudeste,ES,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1702,C0096,2,baixa qualidade de impressão,True,2025-05-22,Sul,SC,original,9,False,Baixa Probabilidade
+CH1703,C0075,1,baixa qualidade de impressão,True,2024-10-01,Nordeste,BA,generico,7,False,Baixa Probabilidade
+CH1704,C0018,3,vazamento de tinta,False,2024-10-13,Norte,AM,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1705,C0146,3,falha de reconhecimento,False,2024-12-21,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1706,C0139,2,outro,True,2024-10-30,Sudeste,RJ,original,6,False,Baixa Probabilidade
+CH1707,C0094,1,baixa qualidade de impressão,True,2025-05-29,Centro-Oeste,GO,original,9,False,Baixa Probabilidade
+CH1708,C0057,2,falha de reconhecimento,True,2024-10-09,Sudeste,RJ,original,10,False,Baixa Probabilidade
+CH1709,C0076,2,outro,True,2024-09-07,Centro-Oeste,MS,original,9,True,Baixa Probabilidade
+CH1710,C0088,5,danificou a impressora,False,2025-06-11,Norte,TO,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1711,C0074,1,baixa qualidade de impressão,True,2024-06-26,Norte,AC,original,7,False,Baixa Probabilidade
+CH1712,C0143,3,vazamento de tinta,False,2025-01-16,Nordeste,PE,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1713,C0085,1,baixa qualidade de impressão,True,2025-04-09,Centro-Oeste,MS,generico,7,False,Baixa Probabilidade
+CH1714,C0104,1,baixa qualidade de impressão,True,2025-06-07,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1715,C0012,2,baixa qualidade de impressão,True,2025-03-05,Sul,RS,generico,7,False,Baixa Probabilidade
+CH1716,C0106,2,baixa qualidade de impressão,True,2025-03-07,Nordeste,MA,generico,6,False,Baixa Probabilidade
+CH1717,C0051,3,vazamento de tinta,False,2024-12-16,Nordeste,CE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1718,C0051,4,falha de reconhecimento,False,2024-09-08,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1719,C0098,1,falha de reconhecimento,True,2024-11-02,Nordeste,CE,generico,5,False,Baixa Probabilidade
+CH1720,C0105,1,falha de reconhecimento,True,2025-04-08,Norte,AC,original,9,False,Baixa Probabilidade
+CH1721,C0098,1,falha de reconhecimento,True,2024-12-28,Sudeste,RJ,original,8,True,Baixa Probabilidade
+CH1722,C0167,4,danificou a impressora,False,2024-07-27,Nordeste,CE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1723,C0199,3,danificou a impressora,False,2024-12-30,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1724,C0048,2,outro,True,2025-05-20,Centro-Oeste,MS,original,7,False,Baixa Probabilidade
+CH1725,C0196,2,baixa qualidade de impressão,True,2025-02-12,Nordeste,PE,generico,3,True,Baixa Probabilidade
+CH1726,C0049,3,vazamento de tinta,False,2024-07-08,Norte,PA,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1727,C0181,5,falha de reconhecimento,False,2025-05-10,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1728,C0077,1,baixa qualidade de impressão,True,2024-08-20,Sudeste,SP,original,9,False,Baixa Probabilidade
+CH1729,C0007,3,vazamento de tinta,False,2024-09-23,Norte,TO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1730,C0042,5,falha de reconhecimento,False,2025-02-08,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1731,C0179,1,falha de reconhecimento,True,2025-01-22,Nordeste,BA,original,10,False,Baixa Probabilidade
+CH1732,C0069,4,vazamento de tinta,False,2025-04-14,Centro-Oeste,MS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1733,C0147,1,baixa qualidade de impressão,True,2025-02-28,Norte,PA,original,10,False,Baixa Probabilidade
+CH1734,C0010,1,outro,True,2024-12-16,Norte,AC,original,10,False,Baixa Probabilidade
+CH1735,C0025,2,baixa qualidade de impressão,True,2024-10-22,Nordeste,BA,original,6,False,Baixa Probabilidade
+CH1736,C0131,1,baixa qualidade de impressão,True,2024-12-26,Norte,AC,original,10,False,Baixa Probabilidade
+CH1737,C0109,2,outro,True,2024-11-27,Nordeste,CE,generico,5,False,Baixa Probabilidade
+CH1738,C0081,1,outro,True,2025-05-30,Norte,AM,original,7,False,Baixa Probabilidade
+CH1739,C0027,5,danificou a impressora,False,2024-10-13,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1740,C0199,2,baixa qualidade de impressão,True,2024-11-12,Norte,AC,original,6,False,Baixa Probabilidade
+CH1741,C0029,5,vazamento de tinta,False,2024-11-17,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1742,C0012,4,danificou a impressora,False,2024-07-16,Nordeste,BA,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1743,C0032,1,baixa qualidade de impressão,True,2025-04-01,Sudeste,SP,original,8,False,Baixa Probabilidade
+CH1744,C0148,3,danificou a impressora,False,2025-03-12,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1745,C0190,4,vazamento de tinta,False,2025-05-29,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1746,C0167,2,outro,True,2024-11-27,Sul,SC,original,7,False,Baixa Probabilidade
+CH1747,C0200,1,falha de reconhecimento,True,2024-11-24,Nordeste,MA,original,9,False,Baixa Probabilidade
+CH1748,C0194,2,baixa qualidade de impressão,True,2025-03-20,Norte,TO,original,10,True,Baixa Probabilidade
+CH1749,C0001,1,baixa qualidade de impressão,True,2024-06-22,Norte,AC,original,7,True,Baixa Probabilidade
+CH1750,C0146,1,falha de reconhecimento,True,2024-10-07,Nordeste,CE,generico,6,False,Baixa Probabilidade
+CH1751,C0119,4,danificou a impressora,False,2025-05-03,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1752,C0015,4,vazamento de tinta,False,2024-07-09,Nordeste,PE,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1753,C0074,3,vazamento de tinta,False,2024-07-29,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1754,C0004,3,vazamento de tinta,False,2024-11-09,Sul,SC,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1755,C0021,2,outro,True,2025-04-21,Sudeste,MG,original,9,False,Baixa Probabilidade
+CH1756,C0108,1,outro,True,2024-10-18,Norte,AC,generico,5,False,Baixa Probabilidade
+CH1757,C0099,2,baixa qualidade de impressão,True,2025-05-25,Sudeste,RJ,original,9,False,Baixa Probabilidade
+CH1758,C0111,5,vazamento de tinta,False,2025-03-24,Centro-Oeste,GO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1759,C0103,1,baixa qualidade de impressão,True,2025-05-07,Nordeste,BA,original,10,False,Baixa Probabilidade
+CH1760,C0118,1,baixa qualidade de impressão,True,2024-06-19,Centro-Oeste,DF,original,7,False,Baixa Probabilidade
+CH1761,C0116,2,baixa qualidade de impressão,True,2025-05-27,Nordeste,CE,original,10,False,Baixa Probabilidade
+CH1762,C0185,3,danificou a impressora,False,2024-07-25,Centro-Oeste,MS,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1763,C0125,4,danificou a impressora,False,2025-03-19,Norte,AC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1764,C0079,1,baixa qualidade de impressão,True,2024-09-15,Centro-Oeste,MS,original,6,False,Baixa Probabilidade
+CH1765,C0166,3,vazamento de tinta,False,2024-12-28,Sul,PR,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1766,C0123,2,baixa qualidade de impressão,True,2024-12-29,Sul,SC,original,8,False,Baixa Probabilidade
+CH1767,C0059,2,outro,True,2025-02-08,Sul,RS,generico,7,True,Baixa Probabilidade
+CH1768,C0007,3,vazamento de tinta,False,2025-04-24,Centro-Oeste,MT,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1769,C0143,2,baixa qualidade de impressão,True,2025-05-08,Sul,PR,original,10,False,Baixa Probabilidade
+CH1770,C0004,2,baixa qualidade de impressão,True,2025-05-26,Sudeste,MG,generico,3,False,Baixa Probabilidade
+CH1771,C0039,2,baixa qualidade de impressão,True,2025-01-08,Sudeste,MG,original,7,False,Baixa Probabilidade
+CH1772,C0156,1,falha de reconhecimento,True,2025-04-08,Norte,AM,original,8,True,Baixa Probabilidade
+CH1773,C0009,2,falha de reconhecimento,True,2024-07-25,Centro-Oeste,GO,generico,4,False,Baixa Probabilidade
+CH1774,C0177,1,baixa qualidade de impressão,True,2025-04-05,Norte,PA,original,10,False,Baixa Probabilidade
+CH1775,C0005,5,vazamento de tinta,False,2025-04-30,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1776,C0095,2,baixa qualidade de impressão,True,2024-06-23,Sul,SC,original,8,False,Baixa Probabilidade
+CH1777,C0174,2,baixa qualidade de impressão,True,2024-10-11,Centro-Oeste,DF,original,10,False,Baixa Probabilidade
+CH1778,C0020,2,baixa qualidade de impressão,True,2024-09-04,Sul,SC,original,6,True,Baixa Probabilidade
+CH1779,C0080,1,baixa qualidade de impressão,True,2025-01-01,Norte,AC,original,6,False,Baixa Probabilidade
+CH1780,C0159,1,falha de reconhecimento,True,2024-08-15,Sul,RS,original,8,False,Baixa Probabilidade
+CH1781,C0171,2,falha de reconhecimento,True,2024-08-18,Sudeste,RJ,original,7,False,Baixa Probabilidade
+CH1782,C0066,1,falha de reconhecimento,True,2025-06-10,Centro-Oeste,MS,original,7,False,Baixa Probabilidade
+CH1783,C0125,3,danificou a impressora,False,2024-11-24,Sudeste,RJ,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1784,C0150,1,outro,True,2025-02-20,Nordeste,BA,original,6,False,Baixa Probabilidade
+CH1785,C0105,4,danificou a impressora,False,2024-08-19,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1786,C0154,2,baixa qualidade de impressão,True,2024-10-16,Sudeste,SP,original,9,False,Baixa Probabilidade
+CH1787,C0182,1,falha de reconhecimento,True,2025-04-02,Sudeste,SP,original,7,False,Baixa Probabilidade
+CH1788,C0103,2,falha de reconhecimento,True,2025-01-06,Nordeste,PE,original,8,False,Baixa Probabilidade
+CH1789,C0101,2,outro,True,2024-09-01,Centro-Oeste,DF,original,9,False,Baixa Probabilidade
+CH1790,C0028,2,baixa qualidade de impressão,True,2024-08-06,Nordeste,MA,original,9,False,Baixa Probabilidade
+CH1791,C0083,2,baixa qualidade de impressão,True,2025-01-03,Centro-Oeste,DF,original,10,False,Baixa Probabilidade
+CH1792,C0068,1,baixa qualidade de impressão,True,2024-08-20,Centro-Oeste,DF,original,7,False,Baixa Probabilidade
+CH1793,C0103,3,vazamento de tinta,False,2024-10-16,Sul,PR,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1794,C0073,1,baixa qualidade de impressão,True,2025-06-14,Sul,PR,original,8,False,Baixa Probabilidade
+CH1795,C0041,1,outro,True,2024-07-14,Norte,TO,original,10,False,Baixa Probabilidade
+CH1796,C0106,1,baixa qualidade de impressão,True,2025-01-21,Norte,AC,generico,3,False,Baixa Probabilidade
+CH1797,C0009,3,danificou a impressora,False,2025-02-16,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1798,C0170,3,vazamento de tinta,False,2024-10-28,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1799,C0075,1,outro,True,2025-05-27,Sul,PR,original,10,False,Baixa Probabilidade
+CH1800,C0058,3,vazamento de tinta,False,2025-03-16,Sul,RS,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1801,C0052,2,falha de reconhecimento,True,2025-05-15,Nordeste,PE,original,10,False,Baixa Probabilidade
+CH1802,C0033,4,vazamento de tinta,False,2024-10-06,Norte,AM,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1803,C0030,4,falha de reconhecimento,False,2025-01-26,Sudeste,MG,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1804,C0044,5,vazamento de tinta,False,2025-04-13,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1805,C0031,2,baixa qualidade de impressão,True,2024-10-03,Norte,PA,original,10,False,Baixa Probabilidade
+CH1806,C0056,3,danificou a impressora,False,2025-04-22,Nordeste,PE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1807,C0067,2,falha de reconhecimento,True,2024-11-24,Nordeste,PE,generico,5,False,Baixa Probabilidade
+CH1808,C0194,4,vazamento de tinta,False,2025-05-01,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1809,C0044,1,baixa qualidade de impressão,True,2024-07-22,Sul,RS,original,10,False,Baixa Probabilidade
+CH1810,C0115,1,falha de reconhecimento,True,2024-12-08,Sul,PR,original,8,True,Baixa Probabilidade
+CH1811,C0083,2,falha de reconhecimento,True,2025-05-31,Sudeste,SP,original,6,False,Baixa Probabilidade
+CH1812,C0023,2,baixa qualidade de impressão,True,2025-02-03,Nordeste,PE,original,9,True,Baixa Probabilidade
+CH1813,C0022,2,falha de reconhecimento,True,2024-09-07,Centro-Oeste,MT,original,8,False,Baixa Probabilidade
+CH1814,C0144,1,baixa qualidade de impressão,True,2025-03-02,Sul,SC,original,7,False,Baixa Probabilidade
+CH1815,C0146,2,falha de reconhecimento,True,2025-01-27,Sul,PR,original,10,False,Baixa Probabilidade
+CH1816,C0099,1,baixa qualidade de impressão,True,2024-12-15,Centro-Oeste,GO,original,7,False,Baixa Probabilidade
+CH1817,C0009,4,falha de reconhecimento,False,2024-08-29,Sudeste,RJ,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1818,C0131,5,danificou a impressora,False,2024-07-28,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1819,C0103,3,falha de reconhecimento,False,2025-02-07,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1820,C0091,3,falha de reconhecimento,False,2024-12-25,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1821,C0176,4,danificou a impressora,False,2025-01-24,Norte,AM,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1822,C0060,3,vazamento de tinta,False,2025-04-13,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1823,C0002,4,danificou a impressora,False,2024-12-03,Sul,RS,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1824,C0078,2,baixa qualidade de impressão,True,2024-07-30,Centro-Oeste,GO,original,7,False,Baixa Probabilidade
+CH1825,C0149,1,baixa qualidade de impressão,True,2024-12-30,Nordeste,CE,original,9,True,Baixa Probabilidade
+CH1826,C0131,2,baixa qualidade de impressão,True,2025-03-09,Sudeste,SP,original,10,False,Baixa Probabilidade
+CH1827,C0091,5,danificou a impressora,False,2024-11-08,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1828,C0188,5,vazamento de tinta,False,2025-06-14,Sudeste,MG,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1829,C0103,2,baixa qualidade de impressão,True,2025-01-19,Centro-Oeste,MT,original,10,False,Baixa Probabilidade
+CH1830,C0025,2,baixa qualidade de impressão,True,2025-06-03,Sudeste,SP,original,8,False,Baixa Probabilidade
+CH1831,C0147,1,baixa qualidade de impressão,True,2024-12-23,Centro-Oeste,GO,original,10,False,Baixa Probabilidade
+CH1832,C0182,1,outro,True,2024-07-19,Sul,SC,original,6,False,Baixa Probabilidade
+CH1833,C0109,3,vazamento de tinta,False,2024-08-17,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1834,C0172,4,vazamento de tinta,False,2025-06-01,Sudeste,MG,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1835,C0036,3,vazamento de tinta,False,2024-08-15,Sudeste,RJ,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1836,C0146,2,baixa qualidade de impressão,True,2025-01-16,Sul,RS,original,8,False,Baixa Probabilidade
+CH1837,C0014,1,outro,True,2025-03-15,Sul,SC,generico,3,False,Baixa Probabilidade
+CH1838,C0020,1,baixa qualidade de impressão,True,2024-12-09,Sul,RS,original,6,False,Baixa Probabilidade
+CH1839,C0182,1,outro,True,2024-11-26,Norte,PA,original,7,False,Baixa Probabilidade
+CH1840,C0088,1,falha de reconhecimento,True,2025-05-31,Sudeste,RJ,original,6,True,Baixa Probabilidade
+CH1841,C0168,5,vazamento de tinta,False,2024-09-01,Sul,RS,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1842,C0041,1,falha de reconhecimento,True,2025-03-05,Sudeste,ES,original,9,False,Baixa Probabilidade
+CH1843,C0055,2,outro,True,2024-11-29,Sul,SC,original,10,False,Baixa Probabilidade
+CH1844,C0046,1,baixa qualidade de impressão,True,2025-05-23,Norte,AC,generico,4,False,Baixa Probabilidade
+CH1845,C0109,1,baixa qualidade de impressão,True,2025-01-30,Centro-Oeste,MT,generico,4,False,Baixa Probabilidade
+CH1846,C0064,4,danificou a impressora,False,2024-06-26,Nordeste,MA,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1847,C0191,1,falha de reconhecimento,True,2025-01-02,Sudeste,SP,original,8,False,Baixa Probabilidade
+CH1848,C0029,2,baixa qualidade de impressão,True,2024-09-10,Sul,SC,original,9,False,Baixa Probabilidade
+CH1849,C0059,1,baixa qualidade de impressão,True,2025-04-27,Sul,PR,generico,7,False,Baixa Probabilidade
+CH1850,C0142,1,outro,True,2025-03-30,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1851,C0184,5,vazamento de tinta,False,2025-04-29,Sudeste,MG,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1852,C0086,2,baixa qualidade de impressão,True,2025-06-07,Norte,PA,original,10,False,Baixa Probabilidade
+CH1853,C0121,1,falha de reconhecimento,True,2025-03-13,Nordeste,CE,original,8,False,Baixa Probabilidade
+CH1854,C0006,1,outro,True,2025-02-01,Centro-Oeste,GO,original,7,False,Baixa Probabilidade
+CH1855,C0156,2,outro,True,2024-07-07,Sudeste,RJ,original,8,True,Baixa Probabilidade
+CH1856,C0120,2,outro,True,2024-06-18,Norte,AM,original,6,False,Baixa Probabilidade
+CH1857,C0156,1,baixa qualidade de impressão,True,2024-09-05,Centro-Oeste,MT,generico,4,True,Baixa Probabilidade
+CH1858,C0123,4,danificou a impressora,False,2024-08-11,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1859,C0200,3,vazamento de tinta,False,2025-04-14,Nordeste,CE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1860,C0175,3,danificou a impressora,False,2024-12-08,Sul,PR,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1861,C0103,4,vazamento de tinta,False,2024-06-17,Centro-Oeste,MT,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1862,C0112,2,outro,True,2024-06-21,Sudeste,ES,original,7,False,Baixa Probabilidade
+CH1863,C0067,1,outro,True,2025-02-21,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1864,C0041,4,vazamento de tinta,False,2025-05-08,Nordeste,CE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1865,C0119,5,vazamento de tinta,False,2024-10-04,Sul,PR,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1866,C0028,1,outro,True,2025-03-03,Sudeste,SP,generico,5,False,Baixa Probabilidade
+CH1867,C0176,2,outro,True,2024-10-01,Sul,RS,original,9,False,Baixa Probabilidade
+CH1868,C0093,2,outro,True,2025-03-04,Norte,TO,original,9,False,Baixa Probabilidade
+CH1869,C0147,1,falha de reconhecimento,True,2025-03-10,Nordeste,PE,original,10,False,Baixa Probabilidade
+CH1870,C0137,5,falha de reconhecimento,False,2024-09-08,Sul,SC,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1871,C0067,1,falha de reconhecimento,True,2025-04-28,Sudeste,MG,original,8,False,Baixa Probabilidade
+CH1872,C0046,2,falha de reconhecimento,True,2024-09-16,Norte,TO,original,7,False,Baixa Probabilidade
+CH1873,C0161,2,falha de reconhecimento,True,2024-12-12,Centro-Oeste,GO,original,6,False,Baixa Probabilidade
+CH1874,C0085,4,danificou a impressora,False,2024-10-20,Sul,RS,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1875,C0046,1,outro,True,2024-11-11,Nordeste,BA,original,9,False,Baixa Probabilidade
+CH1876,C0011,2,falha de reconhecimento,True,2024-09-03,Norte,AM,original,6,False,Baixa Probabilidade
+CH1877,C0012,3,danificou a impressora,False,2024-08-12,Norte,AC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1878,C0080,1,outro,True,2025-02-08,Norte,TO,original,10,False,Baixa Probabilidade
+CH1879,C0055,2,outro,True,2024-08-28,Centro-Oeste,MS,original,6,False,Baixa Probabilidade
+CH1880,C0089,1,falha de reconhecimento,True,2024-11-05,Sudeste,MG,original,7,False,Baixa Probabilidade
+CH1881,C0033,2,falha de reconhecimento,True,2025-05-16,Centro-Oeste,GO,original,8,False,Baixa Probabilidade
+CH1882,C0122,1,baixa qualidade de impressão,True,2025-02-27,Sudeste,RJ,original,8,False,Baixa Probabilidade
+CH1883,C0167,4,vazamento de tinta,False,2024-08-31,Sul,PR,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1884,C0081,2,falha de reconhecimento,True,2025-02-13,Nordeste,MA,generico,6,False,Baixa Probabilidade
+CH1885,C0114,1,falha de reconhecimento,True,2024-08-20,Norte,PA,original,10,False,Baixa Probabilidade
+CH1886,C0188,1,baixa qualidade de impressão,True,2024-11-04,Sul,PR,original,9,False,Baixa Probabilidade
+CH1887,C0006,1,baixa qualidade de impressão,True,2025-03-12,Sul,RS,original,6,False,Baixa Probabilidade
+CH1888,C0126,2,falha de reconhecimento,True,2025-02-03,Norte,PA,original,6,False,Baixa Probabilidade
+CH1889,C0023,5,falha de reconhecimento,False,2024-09-13,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1890,C0179,3,danificou a impressora,False,2024-09-02,Sudeste,SP,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1891,C0123,2,baixa qualidade de impressão,True,2024-11-16,Sudeste,RJ,original,6,False,Baixa Probabilidade
+CH1892,C0162,2,falha de reconhecimento,True,2025-02-28,Sul,RS,generico,4,False,Baixa Probabilidade
+CH1893,C0187,3,danificou a impressora,False,2024-06-23,Nordeste,CE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1894,C0070,2,falha de reconhecimento,True,2025-05-07,Norte,AM,original,6,False,Baixa Probabilidade
+CH1895,C0019,1,falha de reconhecimento,True,2024-12-21,Sudeste,MG,original,7,False,Baixa Probabilidade
+CH1896,C0113,2,falha de reconhecimento,True,2025-05-23,Centro-Oeste,DF,original,6,False,Baixa Probabilidade
+CH1897,C0055,5,danificou a impressora,False,2024-09-09,Nordeste,BA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1898,C0011,5,falha de reconhecimento,False,2025-05-24,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1899,C0083,1,baixa qualidade de impressão,True,2024-12-08,Centro-Oeste,DF,generico,4,False,Baixa Probabilidade
+CH1900,C0141,1,outro,True,2025-05-31,Sul,RS,original,9,False,Baixa Probabilidade
+CH1901,C0167,3,danificou a impressora,False,2025-03-31,Norte,PA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1902,C0194,5,falha de reconhecimento,False,2025-03-05,Nordeste,BA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1903,C0070,1,baixa qualidade de impressão,True,2025-04-16,Nordeste,BA,original,7,False,Baixa Probabilidade
+CH1904,C0092,1,baixa qualidade de impressão,True,2024-07-18,Sul,PR,original,8,False,Baixa Probabilidade
+CH1905,C0101,2,baixa qualidade de impressão,True,2024-08-11,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1906,C0145,3,vazamento de tinta,False,2025-06-10,Nordeste,MA,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1907,C0149,1,baixa qualidade de impressão,True,2025-01-18,Norte,AM,original,9,False,Baixa Probabilidade
+CH1908,C0046,2,baixa qualidade de impressão,True,2025-03-29,Nordeste,PE,original,8,False,Baixa Probabilidade
+CH1909,C0086,4,vazamento de tinta,False,2024-11-10,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1910,C0077,2,baixa qualidade de impressão,True,2024-12-07,Sudeste,ES,original,8,False,Baixa Probabilidade
+CH1911,C0012,3,falha de reconhecimento,False,2024-07-08,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1912,C0084,3,danificou a impressora,False,2024-06-25,Sul,SC,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1913,C0043,5,danificou a impressora,False,2025-05-25,Nordeste,BA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1914,C0105,3,vazamento de tinta,False,2024-06-23,Sudeste,ES,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1915,C0198,2,falha de reconhecimento,True,2024-12-28,Sudeste,ES,generico,4,False,Baixa Probabilidade
+CH1916,C0039,2,baixa qualidade de impressão,True,2024-09-02,Nordeste,MA,original,7,False,Baixa Probabilidade
+CH1917,C0055,4,vazamento de tinta,False,2024-11-30,Nordeste,CE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1918,C0067,5,vazamento de tinta,False,2024-08-17,Sudeste,RJ,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1919,C0057,1,baixa qualidade de impressão,True,2025-05-04,Norte,PA,original,6,False,Baixa Probabilidade
+CH1920,C0154,4,vazamento de tinta,False,2024-10-02,Sudeste,ES,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1921,C0130,1,outro,True,2024-09-03,Sul,RS,original,9,False,Baixa Probabilidade
+CH1922,C0126,4,falha de reconhecimento,False,2024-08-09,Nordeste,CE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1923,C0024,2,falha de reconhecimento,True,2024-08-21,Sudeste,MG,original,6,False,Baixa Probabilidade
+CH1924,C0029,2,baixa qualidade de impressão,True,2024-12-11,Norte,PA,original,10,False,Baixa Probabilidade
+CH1925,C0142,2,outro,True,2025-03-02,Centro-Oeste,MT,original,7,False,Baixa Probabilidade
+CH1926,C0130,5,vazamento de tinta,False,2025-02-26,Sul,SC,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1927,C0049,2,falha de reconhecimento,True,2025-01-17,Nordeste,MA,original,10,True,Baixa Probabilidade
+CH1928,C0146,1,baixa qualidade de impressão,True,2024-11-17,Sudeste,SP,original,10,False,Baixa Probabilidade
+CH1929,C0165,4,danificou a impressora,False,2025-04-11,Nordeste,BA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1930,C0030,2,baixa qualidade de impressão,True,2024-10-06,Centro-Oeste,GO,generico,6,False,Baixa Probabilidade
+CH1931,C0088,1,falha de reconhecimento,True,2024-07-30,Centro-Oeste,MT,original,8,False,Baixa Probabilidade
+CH1932,C0042,2,falha de reconhecimento,True,2025-04-06,Nordeste,CE,generico,7,False,Baixa Probabilidade
+CH1933,C0056,3,vazamento de tinta,False,2025-06-07,Sudeste,MG,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1934,C0060,3,vazamento de tinta,False,2024-12-29,Nordeste,PE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1935,C0062,2,falha de reconhecimento,True,2024-12-02,Centro-Oeste,DF,original,7,False,Baixa Probabilidade
+CH1936,C0190,5,vazamento de tinta,False,2024-07-13,Nordeste,CE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1937,C0010,4,vazamento de tinta,False,2024-12-10,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1938,C0061,1,outro,True,2024-12-16,Centro-Oeste,MT,generico,3,False,Baixa Probabilidade
+CH1939,C0084,1,falha de reconhecimento,True,2025-01-22,Centro-Oeste,MS,original,9,False,Baixa Probabilidade
+CH1940,C0113,4,vazamento de tinta,False,2025-02-13,Sul,RS,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1941,C0064,1,outro,True,2025-05-17,Centro-Oeste,MT,generico,7,False,Baixa Probabilidade
+CH1942,C0145,2,baixa qualidade de impressão,True,2024-09-24,Sul,RS,original,9,False,Baixa Probabilidade
+CH1943,C0034,2,falha de reconhecimento,True,2024-10-14,Norte,AM,original,7,False,Baixa Probabilidade
+CH1944,C0072,1,baixa qualidade de impressão,True,2025-01-01,Sul,PR,original,7,False,Baixa Probabilidade
+CH1945,C0123,1,outro,True,2024-11-27,Sul,SC,generico,3,False,Baixa Probabilidade
+CH1946,C0110,4,vazamento de tinta,False,2024-12-02,Sudeste,RJ,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1947,C0090,1,outro,True,2025-01-14,Centro-Oeste,MS,original,6,False,Baixa Probabilidade
+CH1948,C0104,1,baixa qualidade de impressão,True,2025-05-24,Sul,RS,generico,5,False,Baixa Probabilidade
+CH1949,C0047,2,baixa qualidade de impressão,True,2025-03-23,Centro-Oeste,MS,original,10,False,Baixa Probabilidade
+CH1950,C0160,5,vazamento de tinta,False,2024-12-30,Nordeste,PE,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1951,C0122,3,vazamento de tinta,False,2025-01-29,Sul,PR,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1952,C0175,2,baixa qualidade de impressão,True,2024-09-04,Centro-Oeste,GO,generico,5,False,Baixa Probabilidade
+CH1953,C0018,2,baixa qualidade de impressão,True,2024-09-08,Sul,SC,generico,4,False,Baixa Probabilidade
+CH1954,C0191,2,baixa qualidade de impressão,True,2025-01-25,Nordeste,MA,original,8,False,Baixa Probabilidade
+CH1955,C0009,1,baixa qualidade de impressão,True,2025-01-31,Sudeste,ES,original,9,False,Baixa Probabilidade
+CH1956,C0004,2,baixa qualidade de impressão,True,2024-07-27,Norte,AC,generico,5,False,Baixa Probabilidade
+CH1957,C0139,3,vazamento de tinta,False,2025-03-06,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1958,C0106,4,vazamento de tinta,False,2025-05-19,Sul,RS,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1959,C0066,2,baixa qualidade de impressão,True,2025-01-15,Nordeste,BA,original,10,True,Baixa Probabilidade
+CH1960,C0158,4,falha de reconhecimento,False,2024-11-04,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1961,C0043,1,baixa qualidade de impressão,True,2024-08-13,Sudeste,SP,generico,5,False,Baixa Probabilidade
+CH1962,C0033,2,falha de reconhecimento,True,2025-05-01,Norte,PA,original,6,False,Baixa Probabilidade
+CH1963,C0064,3,danificou a impressora,False,2025-04-25,Nordeste,PE,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1964,C0182,5,vazamento de tinta,False,2025-05-01,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1965,C0073,1,outro,True,2025-02-05,Nordeste,PE,original,10,False,Baixa Probabilidade
+CH1966,C0102,4,vazamento de tinta,False,2025-02-25,Centro-Oeste,GO,falsificado,1,True,Alta Probabilidade de Falsificação
+CH1967,C0065,5,vazamento de tinta,False,2024-07-02,Sudeste,SP,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1968,C0015,1,baixa qualidade de impressão,True,2024-12-31,Sul,RS,original,10,False,Baixa Probabilidade
+CH1969,C0154,5,vazamento de tinta,False,2024-08-13,Nordeste,MA,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1970,C0064,2,falha de reconhecimento,True,2024-08-20,Centro-Oeste,MS,original,8,False,Baixa Probabilidade
+CH1971,C0110,2,baixa qualidade de impressão,True,2024-06-17,Nordeste,BA,original,7,False,Baixa Probabilidade
+CH1972,C0140,2,baixa qualidade de impressão,True,2025-06-05,Centro-Oeste,GO,original,9,False,Baixa Probabilidade
+CH1973,C0064,4,falha de reconhecimento,False,2024-12-21,Sudeste,ES,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1974,C0014,3,vazamento de tinta,False,2025-01-20,Sudeste,MG,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1975,C0023,4,vazamento de tinta,False,2024-10-02,Sudeste,RJ,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1976,C0090,2,baixa qualidade de impressão,True,2024-09-06,Sudeste,ES,original,10,False,Baixa Probabilidade
+CH1977,C0074,3,vazamento de tinta,False,2024-06-19,Sudeste,MG,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1978,C0093,5,danificou a impressora,False,2024-11-13,Sudeste,MG,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1979,C0192,1,baixa qualidade de impressão,True,2024-11-14,Sudeste,MG,original,8,True,Baixa Probabilidade
+CH1980,C0015,5,vazamento de tinta,False,2025-05-30,Sudeste,SP,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1981,C0095,1,baixa qualidade de impressão,True,2024-07-21,Norte,AM,generico,3,False,Baixa Probabilidade
+CH1982,C0054,5,vazamento de tinta,False,2024-10-06,Nordeste,MA,falsificado,0,True,Alta Probabilidade de Falsificação
+CH1983,C0039,1,outro,True,2024-10-20,Norte,AC,original,10,False,Baixa Probabilidade
+CH1984,C0137,3,danificou a impressora,False,2024-08-20,Sudeste,ES,falsificado,2,True,Alta Probabilidade de Falsificação
+CH1985,C0152,2,baixa qualidade de impressão,True,2024-07-24,Sul,PR,original,6,False,Baixa Probabilidade
+CH1986,C0090,2,baixa qualidade de impressão,True,2024-09-02,Centro-Oeste,GO,original,7,False,Baixa Probabilidade
+CH1987,C0071,2,outro,True,2024-09-18,Nordeste,CE,original,9,True,Baixa Probabilidade
+CH1988,C0120,2,baixa qualidade de impressão,True,2025-02-18,Norte,TO,original,9,False,Baixa Probabilidade
+CH1989,C0192,1,falha de reconhecimento,True,2025-05-21,Norte,PA,original,9,False,Baixa Probabilidade
+CH1990,C0092,1,falha de reconhecimento,True,2024-07-07,Norte,PA,original,8,False,Baixa Probabilidade
+CH1991,C0013,1,baixa qualidade de impressão,True,2024-10-21,Centro-Oeste,DF,original,8,False,Baixa Probabilidade
+CH1992,C0120,2,falha de reconhecimento,True,2024-12-02,Sudeste,SP,original,9,False,Baixa Probabilidade
+CH1993,C0074,1,falha de reconhecimento,True,2025-03-19,Sudeste,MG,original,6,False,Baixa Probabilidade
+CH1994,C0146,1,outro,True,2025-06-08,Sudeste,MG,generico,6,False,Baixa Probabilidade
+CH1995,C0038,2,falha de reconhecimento,True,2024-11-05,Centro-Oeste,MS,generico,3,False,Baixa Probabilidade
+CH1996,C0199,2,falha de reconhecimento,True,2025-06-10,Centro-Oeste,DF,original,6,False,Baixa Probabilidade
+CH1997,C0038,1,falha de reconhecimento,True,2025-02-26,Nordeste,CE,original,9,True,Baixa Probabilidade
+CH1998,C0013,3,falha de reconhecimento,False,2024-10-25,Centro-Oeste,GO,falsificado,3,True,Alta Probabilidade de Falsificação
+CH1999,C0004,2,baixa qualidade de impressão,True,2024-12-11,Sul,RS,original,10,False,Baixa Probabilidade
